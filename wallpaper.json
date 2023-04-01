@@ -1,0 +1,26 @@
+{ 
+  "wallpapers": [
+    {
+     "FIFTYFIFTY_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/FIFTYFIFTY_BASIC_CROP.png?format=png",
+     "BLACKPINK_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/BLACKPINK_BASIC_CROP.png?format=png",
+      "TRIPLESASSEMBLE_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/TRIPLESASSEMBLE_BASIC_CROP.png?format=png",
+      "TWICE_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/TWICE_BASIC_CROP.png?format=png",
+      "STAYC_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/STAYC_BASIC_CROP.png?format=png",
+      "MELANIEMARTINEZ_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/MELANIEMARTINEZ_BASIC_CROP.png?format=png",
+      "TAYLORSWIFT_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/TAYLORSWIFT_BASIC_CROP.png?format=png",
+      "SZA_BASIC": "https://superstarsei.sirv.com/Wallpapers/Basic/CROPPED/SZA_BASIC_CROP.png?format=png",
+      
+      "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
+      "BLACKPINK_BASIC_TEXT": "`Basic` **BLACKPINK** Wallpaper",
+      "TRIPLESASSEMBLE_BASIC_TEXT": "`Basic` **tripleS (ASSEMBLE)** Wallpaper",
+      "TWICE_BASIC_TEXT": "`Basic` **TWICE** Wallpaper",
+      "STAYC_BASIC_TEXT": "`Basic` **STAYC** Wallpaper",
+      "MELANIEMARTINEZ_BASIC_TEXT": "`Basic` **Melanie Martinez** Wallpaper",
+      "TAYLORSWIFT_BASIC_TEXT": "`Basic` **Taylor Swift** Wallpaper",
+      "SZA_BASIC_TEXT": "`Basic` **SZA** Wallpaper"
+
+      
+   
+    }
+      ]
+}
