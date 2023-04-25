@@ -479,6 +479,125 @@
                 "name": "<:c:1081522950961909860> **Taylor Swift Rhythm** Cruel Summer",
                 "image": "https://superstarsei.sirv.com/2023/April/CRUEL%20SUMMER/15.png?format=png"
             }
-        ]
-    }
-    
+        ],
+         "FICP_KN_R": [
+        {
+            "name": "<:r:1081522963628699669> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/1.png?format=png"
+        }
+    ],
+  "FICP_KN_S": [
+        {
+            "name": "<:s:1081522960067727360> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/2.png?format=png"
+        }
+    ],
+  "FICP_KN_A": [
+        {
+            "name": "<:a:1081522956234133527> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/3.png?format=png"
+        }
+    ],
+  "FICP_KN_B": [
+        {
+            "name": "<:b:1081522954279591956> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/4.png?format=png"
+        }
+    ],
+  "FICP_KN_C": [
+        {
+            "name": "<:c:1081522950961909860> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/5.png?format=png"
+        }
+    ],
+         "FICP_SE_R": [
+        {
+            "name": "<:r:1081522963628699669> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/6.png?format=png"
+        }
+    ],
+  "FICP_SE_S": [
+        {
+            "name": "<:s:1081522960067727360> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/7.png?format=png"
+        }
+    ],
+  "FICP_SE_A": [
+        {
+            "name": "<:a:1081522956234133527> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/8.png?format=png"
+        }
+    ],
+  "FICP_SE_B": [
+        {
+            "name": "<:b:1081522954279591956> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/9.png?format=png"
+        }
+    ],
+  "FICP_SE_C": [
+        {
+            "name": "<:c:1081522950961909860> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/10.png?format=png"
+        }
+    ],
+         "FICP_SI_R": [
+        {
+            "name": "<:r:1081522963628699669> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/11.png?format=png"
+        }
+    ],
+  "FICP_SI_S": [
+        {
+            "name": "<:s:1081522960067727360> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/12.png?format=png"
+        }
+    ],
+  "FICP_SI_A": [
+        {
+            "name": "<:a:1081522956234133527> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/13.png?format=png"
+        }
+    ],
+  "FICP_SI_B": [
+        {
+            "name": "<:b:1081522954279591956> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/14.png?format=png"
+        }
+    ],
+  "FICP_SI_C": [
+        {
+            "name": "<:c:1081522950961909860> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/15.png?format=png"
+        }
+    ],
+         "FICP_AR_R": [
+        {
+            "name": "<:r:1081522963628699669> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/16.png?format=png"
+        }
+    ],
+  "FICP_AR_S": [
+        {
+            "name": "<:s:1081522960067727360> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/17.png?format=png"
+        }
+    ],
+  "FICP_AR_A": [
+        {
+            "name": "<:a:1081522956234133527> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/18.png?format=png"
+        }
+    ],
+  "FICP_AR_B": [
+        {
+            "name": "<:b:1081522954279591956> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/19.png?format=png"
+        }
+    ],
+  "FICP_AR_C": [
+        {
+            "name": "<:c:1081522950961909860> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://superstarsei.sirv.com/2023/April/Cupid/20.png?format=png"
+        }
+    ]
+}
