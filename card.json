@@ -599,5 +599,575 @@
             "name": "<:c:1081522950961909860> **FIFTY FIFTY ARAN** Cupid",
             "image": "https://superstarsei.sirv.com/2023/April/Cupid/20.png?format=png"
         }
-    ]
+    ],
+         "SZKB_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **SZA Vocal** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/1.png?format=png"
+            }
+        ],
+        "SZKB_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **SZA Vocal** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/2.png?format=png"
+            }
+        ],
+        "SZKB_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **SZA Vocal** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/3.png?format=png"
+            }
+        ],
+        "SZKB_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **SZA Vocal** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/4.png?format=png"
+            }
+        ],
+        "SZKB_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **SZA Vocal** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/5.png?format=png"
+            }
+        ],
+           "SZKB_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **SZA Dance** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/6.png?format=png"
+            }
+        ],
+        "SZKB_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **SZA Dance** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/7.png?format=png"
+            }
+        ],
+        "SZKB_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **SZA Dance** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/8.png?format=png"
+            }
+        ],
+        "SZKB_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **SZA Dance** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/9.png?format=png"
+            }
+        ],
+        "SZKB_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **SZA Dance** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/10.png?format=png"
+            }
+        ],
+           "SZKB_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **SZA Rhythm** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/11.png?format=png"
+            }
+        ],
+        "SZKB_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **SZA Rhythm** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/12.png?format=png"
+            }
+        ],
+        "SZKB_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **SZA Rhythm** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/13.png?format=png"
+            }
+        ],
+        "SZKB_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **SZA Rhythm** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/14.png?format=png"
+            }
+        ],
+        "SZKB_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **SZA Rhythm** Kill Bill",
+                "image": "https://superstarsei.sirv.com/2023/April/Kill%20Bill/15.png?format=png"
+            }
+        ],
+           "MMDE_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **Melanie Martinez Vocal** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/1.png?format=png"
+            }
+        ],
+        "MMDE_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **Melanie Martinez Vocal** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/1.png?format=png"
+            }
+        ],
+        "MMDE_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **Melanie Martinez Vocal** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/1.png?format=png"
+            }
+        ],
+        "MMDE_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **Melanie Martinez Vocal** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/1.png?format=png"
+            }
+        ],
+        "MMDE_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **Melanie Martinez Vocal** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/1.png?format=png"
+            }
+        ],
+         "MMDE_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **Melanie Martinez Dance** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/6.png?format=png"
+            }
+        ],
+        "MMDE_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **Melanie Martinez Dance** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/7.png?format=png"
+            }
+        ],
+        "MMDE_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **Melanie Martinez Dance** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/8.png?format=png"
+            }
+        ],
+        "MMDE_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **Melanie Martinez Dance** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/9.png?format=png"
+            }
+        ],
+        "MMDE_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **Melanie Martinez Dance** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/10.png?format=png"
+            }
+        ],
+         "MMDE_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **Melanie Martinez Rhythm** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/11.png?format=png"
+            }
+        ],
+        "MMDE_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **Melanie Martinez Rhythm** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/12.png?format=png"
+            }
+        ],
+        "MMDE_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **Melanie Martinez Rhythm** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/13.png?format=png"
+            }
+        ],
+        "MMDE_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **Melanie Martinez Rhythm** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/14.png?format=png"
+            }
+        ],
+        "MMDE_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **Melanie Martinez Rhythm** DEATH",
+                "image": "https://superstarsei.sirv.com/2023/April/DEATH/15.png?format=png"
+            }
+        ],
+         "AAAC_YY_R": [
+            {
+                "name": "<:r:1081522963628699669> **Acid Angel From Asia Kim YooYeon* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/1.png?format=png"
+            }
+        ],
+        "AAAC_YY_S": [
+            {
+                "name": "<:s:1081522960067727360> **Acid Angel From Asia Kim YooYeon* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/2.png?format=png"
+            }
+        ],
+        "AAAC_YY_A": [
+            {
+                "name": "<:a:1081522956234133527> **Acid Angel From Asia Kim YooYeon* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/3.png?format=png"
+            }
+        ],
+        "AAAC_YY_B": [
+            {
+                "name": "<:b:1081522954279591956> **Acid Angel From Asia Kim YooYeon* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/4.png?format=png"
+            }
+        ],
+        "AAAC_YY_C": [
+            {
+                "name": "<:c:1081522950961909860> **Acid Angel From Asia Kim YooYeon* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/5.png?format=png"
+            }
+        ],
+           "AAAC_NK_R": [
+            {
+                "name": "<:r:1081522963628699669> **Acid Angel From Asia Kim NakYoung* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/6.png?format=png"
+            }
+        ],
+        "AAAC_NK_S": [
+            {
+                "name": "<:s:1081522960067727360> **Acid Angel From Asia Kim NakYoung* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/7.png?format=png"
+            }
+        ],
+        "AAAC_NK_A": [
+            {
+                "name": "<:a:1081522956234133527> **Acid Angel From Asia Kim NakYoung* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/8.png?format=png"
+            }
+        ],
+        "AAAC_NK_B": [
+            {
+                "name": "<:b:1081522954279591956> **Acid Angel From Asia Kim NakYoung* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/9.png?format=png"
+            }
+        ],
+        "AAAC_NK_C": [
+            {
+                "name": "<:c:1081522950961909860> **Acid Angel From Asia Kim NakYoung* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/10.png?format=png"
+            }
+        ],
+           "AAAC_YB_R": [
+            {
+                "name": "<:r:1081522963628699669> **Acid Angel From Asia Gong YuBin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/11.png?format=png"
+            }
+        ],
+        "AAAC_YB_S": [
+            {
+                "name": "<:s:1081522960067727360> **Acid Angel From Asia Gong YuBin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/12.png?format=png"
+            }
+        ],
+        "AAAC_YB_A": [
+            {
+                "name": "<:a:1081522956234133527> **Acid Angel From Asia Gong YuBin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/13.png?format=png"
+            }
+        ],
+        "AAAC_YB_B": [
+            {
+                "name": "<:b:1081522954279591956> **Acid Angel From Asia Gong YuBin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/14.png?format=png"
+            }
+        ],
+        "AAAC_YB_C": [
+            {
+                "name": "<:c:1081522950961909860> **Acid Angel From Asia Gong YuBin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/15.png?format=png"
+            }
+        ],
+           "AAAC_HR_R": [
+            {
+                "name": "<:r:1081522963628699669> **Acid Angel From Asia Jeong HyeRin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/16.png?format=png"
+            }
+        ],
+        "AAAC_HR_S": [
+            {
+                "name": "<:s:1081522960067727360> **Acid Angel From Asia Jeong HyeRin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/17.png?format=png"
+            }
+        ],
+        "AAAC_HR_A": [
+            {
+                "name": "<:a:1081522956234133527> **Acid Angel From Asia Jeong HyeRin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/18.png?format=png"
+            }
+        ],
+        "AAAC_HR_B": [
+            {
+                "name": "<:b:1081522954279591956> **Acid Angel From Asia Jeong HyeRin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/19.png?format=png"
+            }
+        ],
+        "AAAC_HR_C": [
+            {
+                "name": "<:c:1081522950961909860> **Acid Angel From Asia Jeong HyeRin* ACCESS",
+                "image": "https://superstarsei.sirv.com/2023/April/ACCESS/20.png?format=png"
+            }
+        ],
+           "TWMM_NY_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE NAYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/1.png?format=png"
+            }
+        ],
+        "TWMM_NY_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE NAYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/2.png?format=png"
+            }
+        ],
+        "TWMM_NY_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE NAYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/3.png?format=png"
+            }
+        ],
+        "TWMM_NY_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE NAYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/4.png?format=png"
+            }
+        ],
+        "TWMM_NY_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE NAYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/5.png?format=png"
+            }
+        ],
+        "TWMM_JY_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE JEONGYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/6.png?format=png"
+            }
+        ],
+        "TWMM_JY_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE JEONGYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/7.png?format=png"
+            }
+        ],
+        "TWMM_JY_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE JEONGYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/8.png?format=png"
+            }
+        ],
+        "TWMM_JY_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE JEONGYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/9.png?format=png"
+            }
+        ],
+        "TWMM_JY_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE JEONGYEON** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/10.png?format=png"
+            }
+        ],
+        "TWMM_MO_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE MOMO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/11.png?format=png"
+            }
+        ],
+        "TWMM_MO_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE MOMO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/12.png?format=png"
+            }
+        ],
+        "TWMM_MO_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE MOMO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/13.png?format=png"
+            }
+        ],
+        "TWMM_MO_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE MOMO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/14.png?format=png"
+            }
+        ],
+        "TWMM_MO_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE MOMO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/15.png?format=png"
+            }
+        ],
+        "TWMM_SN_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE SANA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/16.png?format=png"
+            }
+        ],
+        "TWMM_SN_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE SANA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/17.png?format=png"
+            }
+        ],
+        "TWMM_SN_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE SANA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/18.png?format=png"
+            }
+        ],
+        "TWMM_SN_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE SANA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/19.png?format=png"
+            }
+        ],
+        "TWMM_SN_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE SANA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/20.png?format=png"
+            }
+        ],
+        "TWMM_JH_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE JIHYO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/21.png?format=png"
+            }
+        ],
+        "TWMM_JH_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE JIHYO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/22.png?format=png"
+            }
+        ],
+        "TWMM_JH_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE JIHYO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/23.png?format=png"
+            }
+        ],
+        "TWMM_JH_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE JIHYO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/24.png?format=png"
+            }
+        ],
+        "TWMM_JH_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE JIHYO** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/25.png?format=png"
+            }
+        ],
+        "TWMM_MN_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE MINA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/26.png?format=png"
+            }
+        ],
+        "TWMM_MN_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE MINA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/27.png?format=png"
+            }
+        ],
+        "TWMM_MN_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE MINA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/28.png?format=png"
+            }
+        ],
+        "TWMM_MN_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE MINA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/29.png?format=png"
+            }
+        ],
+        "TWMM_MN_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE MINA** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/30.png?format=png"
+            }
+        ],
+        "TWMM_DH_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE DAHYUN** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/31.png?format=png"
+            }
+        ],
+        "TWMM_DH_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE DAHYUN** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/32.png?format=png"
+            }
+        ],
+        "TWMM_DH_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE DAHYUN** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/33.png?format=png"
+            }
+        ],
+        "TWMM_DH_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE DAHYUN** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/34.png?format=png"
+            }
+        ],
+        "TWMM_DH_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE DAHYUN** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/35.png?format=png"
+            }
+        ],
+        "TWMM_CY_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE CHAEYOUNG** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/36.png?format=png"
+            }
+        ],
+        "TWMM_CY_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE CHAEYOUNG** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/37.png?format=png"
+            }
+        ],
+        "TWMM_CY_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE CHAEYOUNG** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/38.png?format=png"
+            }
+        ],
+        "TWMM_CY_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE CHAEYOUNG** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/39.png?format=png"
+            }
+        ],
+        "TWMM_CY_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE CHAEYOUNG** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/40.png?format=png"
+            }
+        ],
+        "TWMM_TZ_R": [
+            {
+                "name": "<:r:1081522963628699669> **TWICE TZUYU** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/41.png?format=png"
+            }
+        ],
+        "TWMM_TZ_S": [
+            {
+                "name": "<:s:1081522960067727360> **TWICE TZUYU** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/42.png?format=png"
+            }
+        ],
+        "TWMM_TZ_A": [
+            {
+                "name": "<:a:1081522956234133527> **TWICE TZUYU** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/43.png?format=png"
+            }
+        ],
+        "TWMM_TZ_B": [
+            {
+                "name": "<:b:1081522954279591956> **TWICE TZUYU** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/44.png?format=png"
+            }
+        ],
+        "TWMM_TZ_C": [
+            {
+                "name": "<:c:1081522950961909860> **TWICE TZUYU** MORE & MORE",
+                "image": "https://superstarsei.sirv.com/2023/April/MORE%20%26%20MORE/45.png?format=png"
+            }
+        ]
 }
