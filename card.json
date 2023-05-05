@@ -1469,5 +1469,145 @@
                 "image": "https://superstarsei.sirv.com/2023/May/Honestly/15.png?format=png",
                 "song": "LIMELIGHT - HONESTLY (Verse 1)"
             }
+        ],
+         "KRCT_SY_R": [
+            {
+                "name": "<:r:1081522963628699669> **+(KR)ystal Eyes Yoon SeoYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/1.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SY_S": [
+            {
+                "name": "<:s:1081522960067727360> **+(KR)ystal Eyes Yoon SeoYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/2.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SY_A": [
+            {
+                "name": "<:a:1081522956234133527> **+(KR)ystal Eyes Yoon SeoYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/3.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SY_B": [
+            {
+                "name": "<:b:1081522954279591956> **+(KR)ystal Eyes Yoon SeoYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/4.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SY_C": [
+            {
+                "name": "<:c:1081522950961909860> **+(KR)ystal Eyes Yoon SeoYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/5.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_CY_R": [
+            {
+                "name": "<:r:1081522963628699669> **+(KR)ystal Eyes Kim ChaeYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/6.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_CY_S": [
+            {
+                "name": "<:s:1081522960067727360> **+(KR)ystal Eyes Kim ChaeYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/7.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_CY_A": [
+            {
+                "name": "<:a:1081522956234133527> **+(KR)ystal Eyes Kim ChaeYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/8.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_CY_B": [
+            {
+                "name": "<:b:1081522954279591956> **+(KR)ystal Eyes Kim ChaeYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/9.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_CY_C": [
+            {
+                "name": "<:c:1081522950961909860> **+(KR)ystal Eyes Kim ChaeYeon** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/10.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_JW_R": [
+            {
+                "name": "<:r:1081522963628699669> **+(KR)ystal Eyes Lee JiWoo** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/11.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_JW_S": [
+            {
+                "name": "<:s:1081522960067727360> **+(KR)ystal Eyes Lee JiWoo** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/12.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_JW_A": [
+            {
+                "name": "<:a:1081522956234133527> **+(KR)ystal Eyes Lee JiWoo** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/13.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_JW_B": [
+            {
+                "name": "<:b:1081522954279591956> **+(KR)ystal Eyes Lee JiWoo** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/14.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_JW_C": [
+            {
+                "name": "<:c:1081522950961909860> **+(KR)ystal Eyes Lee JiWoo** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/15.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SM_R": [
+            {
+                "name": "<:r:1081522963628699669> **+(KR)ystal Eyes Kim SooMin** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/16.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SM_S": [
+            {
+                "name": "<:s:1081522960067727360> **+(KR)ystal Eyes Kim SooMin** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/17.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SM_A": [
+            {
+                "name": "<:a:1081522956234133527> **+(KR)ystal Eyes Kim SooMin** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/18.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SM_B": [
+            {
+                "name": "<:b:1081522954279591956> **+(KR)ystal Eyes Kim SooMin** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/19.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
+        ],
+        "KRCT_SM_C": [
+            {
+                "name": "<:c:1081522950961909860> **+(KR)ystal Eyes Kim SooMin** Cherry Talk",
+                "image": "https://superstarsei.sirv.com/2023/May/Cherry%20Talk/20.png?format=png",
+                "song": "+(KR)ystal Eyes - Cherry Talk (Verse 1)"
+            }
         ]
 }
