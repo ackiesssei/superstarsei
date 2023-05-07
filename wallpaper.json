@@ -28,6 +28,10 @@
             "SABRINACARPENTER_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/SABRINACARPENTER_BASIC_CROPPED.png?format=png",
             "LIMELIGHT_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LIMELIGHT_BASIC_CROPPED.png?format=png",
             "JENNIE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/JENNIE_BASIC_CROPPED.png?format=png",
+            "LADYGAGA_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LADYGAGA_BASIC_CROPPED.png?format=png",
+            "LANADELREY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LANADELREY_BASIC_CROPPED.png?format=png",
+            "LESSERAFIM_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LESSERAFIM_BASIC_CROPPED.png?format=png",
+            "IVE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/IVE_BASIC_CROPPED.png?format=png",
             
             
             "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
@@ -44,7 +48,11 @@
             "KRYSTALEYES_BASIC_TEXT": "`Basic` **+(KR)ystal Eyes** Wallpaper",
             "SABRINACARPENTER_BASIC_TEXT": "`Basic` **Sabrina Carpenter** Wallpaper",
             "LIMELIGHT_BASIC_TEXT": "`Basic` **LIMELIGHT** Wallpaper",
-            "JENNIE_BASIC_TEXT": "`Basic` **JENNIE** Wallpaper"
+            "JENNIE_BASIC_TEXT": "`Basic` **JENNIE** Wallpaper",
+            "LADYGAGA_BASIC_TEXT": "`Basic` **Lady Gaga** Wallpaper",
+            "LANADELREY_BASIC_TEXT": "`Basic` **Lana Del Rey** Wallpaper",
+            "LESSERAFIM_BASIC_TEXT": "`Basic` **LE SSERAFIM** Wallpaper",
+            "IVE_BASIC_TEXT": "`Basic` **IVE** Wallpaper"
         }
     ]
 }
