@@ -2,8 +2,14 @@
     "wallpapers": [
         {
             "LGAP_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LGAP_LIMITED_CROPPED.png?format=png",
+            "LNSS_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LNSS_LIMITED_CROPPED.png?format=png",
+            "IVIA_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVIA_LIMITED_CROPPED.png?format=png",
+            "LSUF_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LSUF_LIMITED_CROPPED.png?format=png",
             
             "LGAP_LIMITED_TEXT": "``Limited`` **Lady Gaga** Applause Wallpaper",
+            "LNSS_LIMITED_TEXT": "``Limited`` **Lana Del Rey** Summertime Sadness Wallpaper",
+            "IVIA_LIMITED_TEXT": "``Limited`` **IVE** I AM Wallpaper",
+            "LSUF_LIMITED_TEXT": "``Limited`` **LE SSERAFIM** UNFORGIVEN Wallpaper",
             
             
             
