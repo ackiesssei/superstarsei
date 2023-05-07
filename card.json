@@ -1714,5 +1714,600 @@
                 "image": "https://superstarsei.sirv.com/2023/May/SOLO/15.png?format=png",
                 "song": "JENNIE - SOLO (Verse 1)"
             }
+        ],
+        "LGAP_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **Lady Gaga Vocal** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/1.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **Lady Gaga Vocal** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/2.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **Lady Gaga Vocal** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/3.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **Lady Gaga Vocal** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/4.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **Lady Gaga Vocal** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/5.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **Lady Gaga Dance** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/6.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **Lady Gaga Dance** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/7.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **Lady Gaga Dance** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/8.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **Lady Gaga Dance** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/9.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **Lady Gaga Dance** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/10.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **Lady Gaga Rhythm** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/11.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **Lady Gaga Rhythm** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/12.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **Lady Gaga Rhythm** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/13.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **Lady Gaga Rhythm** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/14.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LGAP_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **Lady Gaga Rhythm** applause",
+                "image": "https://superstarsei.sirv.com/2023/May/applause/15.png?format=png",
+                "song": "Lady Gaga - Applause (Verse 1)"
+            }
+        ],
+        "LNSS_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **Lana Del Rey Vocal** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/1.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **Lana Del Rey Vocal** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/2.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **Lana Del Rey Vocal** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/3.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **Lana Del Rey Vocal** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/4.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **Lana Del Rey Vocal** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/5.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **Lana Del Rey Dance** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/6.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **Lana Del Rey Dance** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/7.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **Lana Del Rey Dance** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/8.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **Lana Del Rey Dance** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/9.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **Lana Del Rey Dance** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/10.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **Lana Del Rey Rhythm** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/11.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **Lana Del Rey Rhythm** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/12.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **Lana Del Rey Rhythm** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/13.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **Lana Del Rey Rhythm** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/14.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "LNSS_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **Lana Del Rey Rhythm** Summertime Sadness",
+                "image": "https://superstarsei.sirv.com/2023/May/Summertime%20Sadness/15.png?format=png",
+                "song": "Lana Del Rey - Summertime Sadness (Verse 1)"
+            }
+        ],
+        "IVIA_GA_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE GAEUL** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/1.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_GA_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE GAEUL** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/2.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_GA_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE GAEUL** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/3.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_GA_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE GAEUL** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/4.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_GA_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE GAEUL** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/5.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_YJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE ANYUJIN** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/6.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_YJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE ANYUJIN** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/7.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_YJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE ANYUJIN** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/8.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_YJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE ANYUJIN** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/9.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_YJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE ANYUJIN** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/10.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_RE_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE REI** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/11.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_RE_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE REI** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/12.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_RE_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE REI** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/13.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_RE_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE REI** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/14.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_RE_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE REI** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/15.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_WY_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE JANGWONYOUNG** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/16.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_WY_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE JANGWONYOUNG** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/17.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_WY_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE JANGWONYOUNG** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/18.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_WY_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE JANGWONYOUNG** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/19.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_WY_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE JANGWONYOUNG** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/20.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LZ_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE LIZ** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/21.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LZ_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE LIZ** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/22.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LZ_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE LIZ** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/23.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LZ_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE LIZ** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/24.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LZ_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE LIZ** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/25.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LS_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE LEESEO** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/26.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LS_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE LEESEO** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/27.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LS_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE LEESEO** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/28.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LS_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE LEESEO** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/29.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "IVIA_LS_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE LEESEO** I AM",
+                "image": "https://superstarsei.sirv.com/2023/May/I%20AM/30.png?format=png",
+                "song": "IVE - I AM (Verse 1)"
+            }
+        ],
+        "LSUF_SK_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM SAKURA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/1.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_SK_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM SAKURA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/2.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_SK_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM SAKURA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/3.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_SK_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM SAKURA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/4.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_SK_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM SAKURA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/5.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+          "LSUF_CW_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM KIM CHAEWON** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/6.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_CW_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM KIM CHAEWON** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/7.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_CW_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM KIM CHAEWON** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/8.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_CW_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM KIM CHAEWON** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/9.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_CW_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM KIM CHAEWON** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/10.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+          "LSUF_YJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/11.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_YJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/12.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_YJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/13.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_YJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/14.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_YJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/15.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+          "LSUF_KZ_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/16.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_KZ_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/17.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_KZ_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/18.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_KZ_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/19.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_KZ_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/20.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+          "LSUF_EC_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/21.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_EC_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/22.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_EC_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/23.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_EC_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/24.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
+        ],
+        "LSUF_EC_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/May/UNFORGIVEN/25.png?format=png",
+                "song": "LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) (Verse 1)"
+            }
         ]
 }
