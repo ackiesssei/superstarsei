@@ -1,0 +1,42 @@
+{ 
+  "pfps": [
+    {
+      "LGAP_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/1.png?format=png",
+      "LGAP_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/2.png?format=png",
+      "LGAP_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/3.png?format=png",
+      "LNSS_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/4.png?format=png",
+      "LNSS_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/5.png?format=png",
+      "LNSS_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/6.png?format=png",
+      "IVIA_GA": "https://superstarsei.sirv.com/2023/Profiles/Limited/7.png?format=png",
+      "IVIA_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/8.png?format=png",
+      "IVIA_RE": "https://superstarsei.sirv.com/2023/Profiles/Limited/9.png?format=png",
+      "IVIA_WY": "https://superstarsei.sirv.com/2023/Profiles/Limited/10.png?format=png",
+      "IVIA_LZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/11.png?format=png",
+      "IVIA_LS": "https://superstarsei.sirv.com/2023/Profiles/Limited/12.png?format=png",
+      "LSUF_SK": "https://superstarsei.sirv.com/2023/Profiles/Limited/13.png?format=png",
+      "LSUF_CW": "https://superstarsei.sirv.com/2023/Profiles/Limited/14.png?format=png",
+      "LSUF_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/15.png?format=png",
+      "LSUF_KZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/16.png?format=png",
+      "LSUF_EC": "https://superstarsei.sirv.com/2023/Profiles/Limited/17.png?format=png",
+      
+      "LGAP_V_TEXT": "``Limited`` **Lady Gaga Vocal** Applause Profile Picture",
+      "LGAP_D_TEXT": "``Limited`` **Lady Gaga Dance** Applause Profile Picture",
+      "LGAP_R_TEXT": "``Limited`` **Lady Gaga Rhythm** Applause Profile Picture",
+      "LNSS_V_TEXT": "``Limited`` **Lana Del Rey Vocal** Summertime Sadness Profile Picture",
+       "LNSS_D_TEXT": "``Limited`` **Lana Del Rey Dance** Summertime Sadness Profile Picture",
+       "LNSS_R_TEXT": "``Limited`` **Lana Del Rey Rhythm** Summertime Sadness Profile Picture",
+      "IVIA_GA_TEXT": "``Limited`` **IVE GAEUL** I AM Profile Picture",
+      "IVIA_YJ_TEXT": "``Limited`` **IVE ANYUJIN** I AM Profile Picture",
+      "IVIA_RE_TEXT": "``Limited`` **IVE REI** I AM Profile Picture",
+      "IVIA_WY_TEXT": "``Limited`` **IVE JANGWONYOUNG** I AM Profile Picture",
+      "IVIA_LZ_TEXT": "``Limited`` **IVE LIZ** I AM Profile Picture",
+      "IVIA_LS_TEXT": "``Limited`` **IVE LEESEO** I AM Profile Picture",
+      "LSUF_SK_TEXT": "``Limited`` **LE SSERAFIM SAKURA** UNFORGIVEN Profile Picture",
+      "LSUF_CW_TEXT": "``Limited`` **LE SSERAFIM KIM CHAEWON** UNFORGIVEN Profile Picture",
+      "LSUF_YJ_TEXT": "``Limited`` **LE SSERAFIM HUH YUNJIN** UNFORGIVEN Profile Picture",
+      "LSUF_KZ_TEXT": "``Limited`` **LE SSERAFIM KAZUHA** UNFORGIVEN Profile Picture",
+      "LSUF_EC_TEXT": "``Limited`` **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN Profile Picture"
+     
+    }
+      ]
+}
