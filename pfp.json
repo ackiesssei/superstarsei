@@ -18,6 +18,19 @@
       "LSUF_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/15.png?format=png",
       "LSUF_KZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/16.png?format=png",
       "LSUF_EC": "https://superstarsei.sirv.com/2023/Profiles/Limited/17.png?format=png",
+      "AELI_KR": "https://superstarsei.sirv.com/2023/Profiles/Limited/18.png?format=png",
+      "AELI_GS": "https://superstarsei.sirv.com/2023/Profiles/Limited/19.png?format=png",
+      "AELI_WT": "https://superstarsei.sirv.com/2023/Profiles/Limited/20.png?format=png",
+      "AELI_NN": "https://superstarsei.sirv.com/2023/Profiles/Limited/21.png?format=png",
+      "AESP_KR": "https://superstarsei.sirv.com/2023/Profiles/Limited/22.png?format=png",
+      "AESP_GS": "https://superstarsei.sirv.com/2023/Profiles/Limited/23.png?format=png",
+      "AESP_WT": "https://superstarsei.sirv.com/2023/Profiles/Limited/24.png?format=png",
+      "AESP_NN": "https://superstarsei.sirv.com/2023/Profiles/Limited/25.png?format=png",
+      "AEIM_KR": "https://superstarsei.sirv.com/2023/Profiles/Limited/26.png?format=png",
+      "AEIM_GS": "https://superstarsei.sirv.com/2023/Profiles/Limited/27.png?format=png",
+      "AEIM_WT": "https://superstarsei.sirv.com/2023/Profiles/Limited/28.png?format=png",
+      "AEIM_NN": "https://superstarsei.sirv.com/2023/Profiles/Limited/29.png?format=png",
+     
       
       "LGAP_V_TEXT": "``Limited`` **Lady Gaga Vocal** Applause Profile Picture",
       "LGAP_D_TEXT": "``Limited`` **Lady Gaga Dance** Applause Profile Picture",
@@ -35,7 +48,19 @@
       "LSUF_CW_TEXT": "``Limited`` **LE SSERAFIM KIM CHAEWON** UNFORGIVEN Profile Picture",
       "LSUF_YJ_TEXT": "``Limited`` **LE SSERAFIM HUH YUNJIN** UNFORGIVEN Profile Picture",
       "LSUF_KZ_TEXT": "``Limited`` **LE SSERAFIM KAZUHA** UNFORGIVEN Profile Picture",
-      "LSUF_EC_TEXT": "``Limited`` **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN Profile Picture"
+      "LSUF_EC_TEXT": "``Limited`` **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN Profile Picture",
+      "AELI_KR_TEXT": "``Limited`` **aespa KARINA** Lingo Profile Picture",
+      "AELI_GS_TEXT": "``Limited`` **aespa GISELLE** Lingo Profile Picture",
+      "AELI_WT_TEXT": "``Limited`` **aespa WINTER** Lingo Profile Picture",
+      "AELI_NN_TEXT": "``Limited`` **aespa NINGNING** Lingo Profile Picture",
+      "AESP_KR_TEXT": "``Limited`` **aespa KARINA** Lingo Profile Picture",
+      "AESP_GS_TEXT": "``Limited`` **aespa GISELLE** Lingo Profile Picture",
+      "AESP_WT_TEXT": "``Limited`` **aespa WINTER** Lingo Profile Picture",
+      "AESP_NN_TEXT": "``Limited`` **aespa NINGNING** Lingo Profile Picture",
+      "AEIM_KR_TEXT": "``Limited`` **aespa KARINA** Lingo Profile Picture",
+      "AEIM_GS_TEXT": "``Limited`` **aespa GISELLE** Lingo Profile Picture",
+      "AEIM_WT_TEXT": "``Limited`` **aespa WINTER** Lingo Profile Picture",
+      "AEIM_NN_TEXT": "``Limited`` **aespa NINGNING** Lingo Profile Picture"
      
     }
       ]
