@@ -3150,6 +3150,35 @@
                 "song": "aespa - Lingo (Verse 1)"
             }
         ],
+          "AESP_KR_R": [
+            {
+                "name": "<:r:1081522963628699669> **aespa KARINA** Spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/Spicy/1.png?format=png",
+                "song": "aespa - Spicy (Verse 1)"
+            }
+        ],
+        "AESP_KR_S": [
+            {
+                "name": "<:s:1081522960067727360> **aespa KARINA** Spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/Spicy/2.png?format=png",
+                "song": "aespa - Spicy (Verse 1)"
+            }
+        ],
+        "AESP_KR_A": [
+            {
+                "name": "<:a:1081522956234133527> **aespa KARINA** Spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/Spicy/3.png?format=png",
+                "song": "aespa - Spicy (Verse 1)"
+            }
+        ],
+        "AESP_KR_B": [
+            {
+                "name": "<:b:1081522954279591956> **aespa KARINA** Spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/Spicy/4.png?format=png",
+                "song": "aespa - Spicy (Verse 1)"
+            }
+        ],
+     
             "AESP_KR_C": [
             {
                 "name": "<:c:1081522950961909860> **aespa KARINA** Spicy",
@@ -3260,6 +3289,34 @@
                 "name": "<:c:1081522950961909860> **aespa NINGNING** Spicy",
                 "image": "https://superstarsei.sirv.com/2023/May/Spicy/20.png?format=png",
                 "song": "aespa - Spicy (Verse 1)"
+            }
+        ],
+          "AEIM_KR_R": [
+            {
+                "name": "<:r:1081522963628699669> **aespa KARINA** I'm too spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/I'm%20too%20spicy/1.png?format=png",
+                "song": "aespa - Spicy (Verse 2)"
+            }
+        ],
+        "AEIM_KR_S": [
+            {
+                "name": "<:s:1081522960067727360> **aespa KARINA** I'm too spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/I'm%20too%20spicy/2.png?format=png",
+                "song": "aespa - Spicy (Verse 2)"
+            }
+        ],
+        "AEIM_KR_A": [
+            {
+                "name": "<:a:1081522956234133527> **aespa KARINA** I'm too spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/I'm%20too%20spicy/3.png?format=png",
+                "song": "aespa - Spicy (Verse 2)"
+            }
+        ],
+        "AEIM_KR_B": [
+            {
+                "name": "<:b:1081522954279591956> **aespa KARINA** I'm too spicy",
+                "image": "https://superstarsei.sirv.com/2023/May/I'm%20too%20spicy/4.png?format=png",
+                "song": "aespa - Spicy (Verse 2)"
             }
         ],
             "AEIM_KR_C": [
