@@ -3450,5 +3450,251 @@
                 "image": "https://superstarsei.sirv.com/2023/May/I'm%20too%20spicy/20.png?format=png",
                 "song": "aespa - Spicy (Verse 2)"
             }
+        ],
+               "CLCL_HS_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y MYUNG HYUNGSEO** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/1.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HS_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y MYUNG HYUNGSEO** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/2.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HS_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y MYUNG HYUNGSEO** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/3.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HS_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y MYUNG HYUNGSEO** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/4.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HS_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y MYUNG HYUNGSEO** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/5.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+         "CLCL_CW_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y YOON CHAEWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/6.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_CW_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y YOON CHAEWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/7.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_CW_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y YOON CHAEWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/8.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_CW_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y YOON CHAEWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/9.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_CW_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y YOON CHAEWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/10.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+         "CLCL_HJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y HONG HYEJU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/11.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y HONG HYEJU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/12.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y HONG HYEJU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/13.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y HONG HYEJU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/14.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_HJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y HONG HYEJU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/15.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+         "CLCL_RW_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y KIM RIWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/16.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_RW_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y KIM RIWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/17.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_RW_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y KIM RIWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/18.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_RW_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y KIM RIWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/19.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_RW_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y KIM RIWON** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/20.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+         "CLCL_JM_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y WON JIMIN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/21.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_JM_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y WON JIMIN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/22.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_JM_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y WON JIMIN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/23.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_JM_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y WON JIMIN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/24.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_JM_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y WON JIMIN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/25.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+         "CLCL_BO_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y KIM BOEUN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/26.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_BO_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y KIM BOEUN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/27.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_BO_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y KIM BOEUN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/28.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_BO_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y KIM BOEUN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/29.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_BO_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y KIM BOEUN** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/30.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+         "CLCL_SY_R": [
+            {
+                "name": "<:r:1081522963628699669> **CLASS:y KIM SEONYOU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/31.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_SY_S": [
+            {
+                "name": "<:s:1081522960067727360> **CLASS:y KIM SEONYOU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/32.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_SY_A": [
+            {
+                "name": "<:a:1081522956234133527> **CLASS:y KIM SEONYOU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/33.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_SY_B": [
+            {
+                "name": "<:b:1081522954279591956> **CLASS:y KIM SEONYOU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/34.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
+        ],
+        "CLCL_SY_C": [
+            {
+                "name": "<:c:1081522950961909860> **CLASS:y KIM SEONYOU** CLASSY",
+                "image": "https://superstarsei.sirv.com/2023/May/CLASSY/35.png?format=png",
+                "song": "CLASS:y - CLASSY (Verse 1)"
+            }
         ]
+        
 }
