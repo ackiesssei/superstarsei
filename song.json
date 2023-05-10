@@ -1,2 +1,538 @@
 {
-  "KRE_C100": [
+  "KRE_1": [
+            {
+                "song": "Cherry 100%",
+                "artist": "+(KR)ystal Eyes",
+                "album": "+(KR)ystal Eyes <AESTHETIC>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/1.png?format=png"
+            }
+        ],
+    "KRE_2": [
+            {
+                "song": "Cherry Talk",
+                "artist": "+(KR)ystal Eyes",
+                "album": "+(KR)ystal Eyes <AESTHETIC>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/1.png?format=png"
+            }
+        ],
+     "KRE_3": [
+            {
+                "song": "Touch",
+                "artist": "+(KR)ystal Eyes",
+                "album": "+(KR)ystal Eyes <AESTHETIC>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/1.png?format=png"
+            }
+        ],
+     "KRE_4": [
+            {
+                "song": "Hide & Seek",
+                "artist": "+(KR)ystal Eyes",
+                "album": "+(KR)ystal Eyes <AESTHETIC>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/1.png?format=png"
+            }
+        ],
+     "KRE_5": [
+            {
+                "song": "Deja Vu",
+                "artist": "+(KR)ystal Eyes",
+                "album": "+(KR)ystal Eyes <AESTHETIC>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/1.png?format=png"
+            }
+        ],
+     "KRE_6": [
+            {
+                "song": "Dimension (KRE Ver.)",
+                "artist": "+(KR)ystal Eyes",
+                "album": "+(KR)ystal Eyes <AESTHETIC>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/1.png?format=png"
+            }
+        ],
+   "AAA_1": [
+            {
+                "song": "Access",
+                "artist": "Acid Angel From Asia",
+                "album": "Acid Angel From Asia <ACCESS>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/2.png?format=png"
+            }
+        ],
+     "AAA_2": [
+            {
+                "song": "Generation",
+                "artist": "Acid Angel From Asia",
+                "album": "Acid Angel From Asia <ACCESS>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/2.png?format=png"
+            }
+        ],
+     "AAA_3": [
+            {
+                "song": "Rolex",
+                "artist": "Acid Angel From Asia",
+                "album": "Acid Angel From Asia <ACCESS>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/2.png?format=png"
+            }
+        ],
+     "AAA_4": [
+            {
+                "song": "Charla",
+                "artist": "Acid Angel From Asia",
+                "album": "Acid Angel From Asia <ACCESS>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/2.png?format=png"
+            }
+        ],
+     "AAA_5": [
+            {
+                "song": "Dimension (AAA Ver.)",
+                "artist": "Acid Angel From Asia",
+                "album": "Acid Angel From Asia <ACCESS>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/2.png?format=png"
+            }
+        ],
+     "AAA_6": [
+            {
+                "song": "+(82)",
+                "artist": "Acid Angel From Asia",
+                "album": "Acid Angel From Asia <ACCESS>",
+                "image": "https://superstarsei.sirv.com/2023/Stream/2.png?format=png"
+            }
+        ],
+     "TRS_1": [
+            {
+                "song": "Beam",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+  "TRS_2": [
+            {
+                "song": "Before the Rise",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+  "TRS_3": [
+            {
+                "song": "Rising",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+  "TRS_4": [
+            {
+                "song": "Colorful",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+  "TRS_5": [
+            {
+                "song": "The Baddest",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+  "TRS_6": [
+            {
+                "song": "New Look",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+  "TRS_7": [
+            {
+                "song": "Chowall",
+                "artist": "tripleS",
+                "album": "ASSEMBLE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/3.png?format=png"
+            }
+        ],
+    "TS_1": [
+            {
+                "song": "Lavender Haze",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_2": [
+            {
+                "song": "Maroon",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_3": [
+            {
+                "song": "Anti-Hero",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_4": [
+            {
+                "song": "Snow on the Beach (feat. Lana Del Rey)",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_5": [
+            {
+                "song": "You're on Your Own, Kid",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_6": [
+            {
+                "song": "Midnight Rain",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_7": [
+            {
+                "song": "Question...?",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_8": [
+            {
+                "song": "Vigilante Shit",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_9": [
+            {
+                "song": "Bejeweled",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_10": [
+            {
+                "song": "Labyrinth",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_11": [
+            {
+                "song": "Karma",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_12": [
+            {
+                "song": "Sweet Nothing",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+    "TS_13": [
+            {
+                "song": "Mastermind",
+                "artist": "Taylor Swift",
+                "album": "Midnights",
+                "image": "https://superstarsei.sirv.com/2023/Stream/4.png?format=png"
+            }
+        ],
+      "IVE_1": [
+            {
+                "song": "Blue Blood",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_2": [
+            {
+                "song": "I AM",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_3": [
+            {
+                "song": "Kitsch",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_4": [
+            {
+                "song": "Lips",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_5": [
+            {
+                "song": "Heroine",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_6": [
+            {
+                "song": "Mine",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_7": [
+            {
+                "song": "Hypnosis",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_8": [
+            {
+                "song": "NOT YOUR GIRL",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_9": [
+            {
+                "song": "Next Page",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_10": [
+            {
+                "song": "Cherish",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "IVE_11": [
+            {
+                "song": "Shine With Me",
+                "artist": "IVE",
+                "album": "I've IVE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/5.png?format=png"
+            }
+        ],
+    "LSF_1": [
+            {
+                "song": "The World Is My Oyster (2023 Ver.)",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+    "LSF_2": [
+            {
+                "song": "FEARLESS (2023 Ver.)",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_3": [
+            {
+                "song": "Blue Flame (2023 Ver.)",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_4": [
+            {
+                "song": "The Hydra",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_5": [
+            {
+                "song": "ANTIFRAGILE",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_6": [
+            {
+                "song": "Impurities",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_7": [
+            {
+                "song": "Burn The Bridge",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_8": [
+            {
+                "song": "UNFORGIVEN (feat. Nile Rodgers)",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_9": [
+            {
+                "song": "No-Return (Into the unknown)",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_10": [
+            {
+                "song": "Eve, Psyche & The Bluebeard's wife",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_11": [
+            {
+                "song": "FEARNOT (Between you, me and the lampost)",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_12": [
+            {
+                "song": "Flash Forward",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "LSF_13": [
+            {
+                "song": "Fire in the belly",
+                "artist": "LE SSERAFIM",
+                "album": "UNFORGIVEN",
+                "image": "https://superstarsei.sirv.com/2023/Stream/6.png?format=png"
+            }
+        ],
+   "OR_1": [
+            {
+                "song": "brutal",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_2": [
+            {
+                "song": "traitor",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_3": [
+            {
+                "song": "drivers license",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_4": [
+            {
+                "song": "1 step forward, 3 steps back",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_5": [
+            {
+                "song": "deja vu",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_6": [
+            {
+                "song": "good 4 u",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_7": [
+            {
+                "song": "enough for you",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_8": [
+            {
+                "song": "happier",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_9": [
+            {
+                "song": "jealousy, jealousy",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_10": [
+            {
+                "song": "favorite crime",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ],
+   "OR_11": [
+            {
+                "song": "hope ur ok",
+                "artist": "Olivia Rodrigo",
+                "album": "SOUR",
+                "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
+            }
+        ] 
+}
