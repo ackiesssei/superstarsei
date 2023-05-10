@@ -44,7 +44,8 @@
             "LANADELREY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LANADELREY_BASIC_CROPPED.png?format=png",
             "LESSERAFIM_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LESSERAFIM_BASIC_CROPPED.png?format=png",
             "IVE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/IVE_BASIC_CROPPED.png?format=png",
-            "AESPA_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/AESPA_BASIC_CROPPED.png?format=png ",
+            "AESPA_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/AESPA_BASIC_CROPPED.png?format=png",
+            "CLASSY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/CLASSY_BASIC_CROPPED.png?format=png",
             
             
             "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
@@ -66,7 +67,8 @@
             "LANADELREY_BASIC_TEXT": "`Basic` **Lana Del Rey** Wallpaper",
             "LESSERAFIM_BASIC_TEXT": "`Basic` **LE SSERAFIM** Wallpaper",
             "IVE_BASIC_TEXT": "`Basic` **IVE** Wallpaper",
-            "AESPA_BASIC_TEXT": "`Basic` **aespa** Wallpaper"
+            "AESPA_BASIC_TEXT": "`Basic` **aespa** Wallpaper",
+            "CLASSY_BASIC_TEXT": "`Basic` **CLASS:y** Wallpaper"
         }
     ]
 }
