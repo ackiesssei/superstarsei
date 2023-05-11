@@ -534,5 +534,157 @@
                 "album": "SOUR",
                 "image": "https://superstarsei.sirv.com/2023/Stream/7.png?format=png"
             }
-        ] 
+        ],
+    "AE_1": [
+            {
+                "song": "Welcome To MY World (feat. nævis)",
+                "artist": "aespa",
+                "album": "MY WORLD - The 3rd Mini Album",
+                "image": "https://superstarsei.sirv.com/2023/Stream/8.png?format=png"
+            }
+        ],
+    "AE_2": [
+            {
+                "song": "Spicy",
+                "artist": "aespa",
+                "album": "MY WORLD - The 3rd Mini Album",
+                "image": "https://superstarsei.sirv.com/2023/Stream/8.png?format=png"
+            }
+        ],
+    "AE_3": [
+            {
+                "song": "Salty & Sweet",
+                "artist": "aespa",
+                "album": "MY WORLD - The 3rd Mini Album",
+                "image": "https://superstarsei.sirv.com/2023/Stream/8.png?format=png"
+            }
+        ],
+    "AE_4": [
+            {
+                "song": "Thirsty",
+                "artist": "aespa",
+                "album": "MY WORLD - The 3rd Mini Album",
+                "image": "https://superstarsei.sirv.com/2023/Stream/8.png?format=png"
+            }
+        ],
+    "AE_5": [
+            {
+                "song": "I'm Unhappy",
+                "artist": "aespa",
+                "album": "MY WORLD - The 3rd Mini Album",
+                "image": "https://superstarsei.sirv.com/2023/Stream/8.png?format=png"
+            }
+        ],
+    "AE_6": [
+            {
+                "song": "'Til We Meet Again",
+                "artist": "aespa",
+                "album": "MY WORLD - The 3rd Mini Album",
+                "image": "https://superstarsei.sirv.com/2023/Stream/8.png?format=png"
+            }
+        ],
+      "BP_1": [
+            {
+                "song": "Pink Venom",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_2": [
+            {
+                "song": "Shut Down",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_3": [
+            {
+                "song": "Typa Girl",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_4": [
+            {
+                "song": "Yeah Yeah Yeah",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_5": [
+            {
+                "song": "Hard To Love",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_6": [
+            {
+                "song": "The Happiest Girl",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_7": [
+            {
+                "song": "Tally",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+   "BP_8": [
+            {
+                "song": "Ready For Love",
+                "artist": "BLACKPINK",
+                "album": "BORN PINK",
+                "image": "https://superstarsei.sirv.com/2023/Stream/9.png?format=png"
+            }
+        ],
+    "CLS_1": [
+            {
+                "song": "UP",
+                "artist": "CLASS:y",
+                "album": "CLASS IS OVER",
+                "image": "https://superstarsei.sirv.com/2023/Stream/10.png?format=png"
+            }
+        ],
+      "CLS_2": [
+            {
+                "song": "SHUT DOWN",
+                "artist": "CLASS:y",
+                "album": "CLASS IS OVER",
+                "image": "https://superstarsei.sirv.com/2023/Stream/10.png?format=png"
+            }
+        ],
+      "CLS_3": [
+            {
+                "song": "TELL ME ONE MORE TIME",
+                "artist": "CLASS:y",
+                "album": "CLASS IS OVER",
+                "image": "https://superstarsei.sirv.com/2023/Stream/10.png?format=png"
+            }
+        ],
+      "CLS_4": [
+            {
+                "song": "SUPER COOL",
+                "artist": "CLASS:y",
+                "album": "CLASS IS OVER",
+                "image": "https://superstarsei.sirv.com/2023/Stream/10.png?format=png"
+            }
+        ],
+      "CLS_5": [
+            {
+                "song": "FEELIN' SO GOOD",
+                "artist": "CLASS:y",
+                "album": "CLASS IS OVER",
+                "image": "https://superstarsei.sirv.com/2023/Stream/10.png?format=png"
+            }
+        ]
 }
