@@ -4150,6 +4150,565 @@
                 "image": "https://superstarsei.sirv.com/2023/May/We%20can%20shake/15.png?format=png",
                 "song": "Taylor Swift - Shake It Off (Verse 1)"
             }
+        ],
+        "LSNR_SK_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM SAKURA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/1.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_SK_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM SAKURA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/2.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_SK_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM SAKURA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/3.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_SK_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM SAKURA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/4.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_SK_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM SAKURA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/5.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+          "LSNR_CW_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM KIM CHAEWON** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/6.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_CW_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM KIM CHAEWON** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/7.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_CW_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM KIM CHAEWON** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/8.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_CW_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM KIM CHAEWON** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/9.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_CW_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM KIM CHAEWON** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/10.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+          "LSNR_YJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM HUH YUNJIN** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/11.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_YJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM HUH YUNJIN** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/12.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_YJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM HUH YUNJIN** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/13.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_YJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM HUH YUNJIN** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/14.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_YJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM HUH YUNJIN** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/15.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+          "LSNR_KZ_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM KAZUHA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/16.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_KZ_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM KAZUHA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/17.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_KZ_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM KAZUHA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/18.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_KZ_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM KAZUHA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/19.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_KZ_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM KAZUHA** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/20.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+          "LSNR_EC_R": [
+            {
+                "name": "<:r:1081522963628699669> **LE SSERAFIM HONG EUNCHAE** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/21.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_EC_S": [
+            {
+                "name": "<:s:1081522960067727360> **LE SSERAFIM HONG EUNCHAE** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/22.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_EC_A": [
+            {
+                "name": "<:a:1081522956234133527> **LE SSERAFIM HONG EUNCHAE** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/23.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_EC_B": [
+            {
+                "name": "<:b:1081522954279591956> **LE SSERAFIM HONG EUNCHAE** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/24.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+        "LSNR_EC_C": [
+            {
+                "name": "<:c:1081522950961909860> **LE SSERAFIM HONG EUNCHAE** No-Return",
+                "image": "https://superstarsei.sirv.com/2023/May/No-Return/25.png?format=png",
+                "song": "LE SSERAFIM - No-Return (Into the unknown) (Verse 1)"
+            }
+        ],
+           "IVLP_GA_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE GAEUL** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/1.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_GA_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE GAEUL** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/2.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_GA_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE GAEUL** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/3.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_GA_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE GAEUL** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/4.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_GA_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE GAEUL** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/5.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_YJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE ANYUJIN** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/6.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_YJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE ANYUJIN** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/7.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_YJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE ANYUJIN** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/8.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_YJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE ANYUJIN** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/9.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_YJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE ANYUJIN** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/10.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_RE_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE REI** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/11.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_RE_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE REI** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/12.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_RE_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE REI** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/13_fix.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_RE_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE REI** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/14_fix.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_RE_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE REI** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/15.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_WY_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE JANGWONYOUNG** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/16.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_WY_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE JANGWONYOUNG** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/17.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_WY_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE JANGWONYOUNG** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/18.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_WY_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE JANGWONYOUNG** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/19.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_WY_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE JANGWONYOUNG** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/20.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LZ_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE LIZ** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/21.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LZ_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE LIZ** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/22.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LZ_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE LIZ** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/23.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LZ_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE LIZ** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/24.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LZ_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE LIZ** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/25.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LS_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE LEESEO** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/26.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LS_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE LEESEO** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/27.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LS_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE LEESEO** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/28.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LS_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE LEESEO** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/29.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "IVLP_LS_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE LEESEO** Lips",
+                "image": "https://superstarsei.sirv.com/2023/May/Lips/30.png?format=png",
+                "song": "IVE - Lips (Verse 1)"
+            }
+        ],
+        "NJDT_MJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans MINJI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/1.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_MJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans MINJI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/2.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_MJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans MINJI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/3.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_MJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans MINJI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/4.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_MJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans MINJI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/5.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+          "NJDT_HN_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans HANNI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/6.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HN_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans HANNI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/7.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HN_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans HANNI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/8.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HN_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans HANNI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/9.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HN_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans HANNI** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/10.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+          "NJDT_DN_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans DANIELLE** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/11.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_DN_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans DANIELLE** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/12.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_DN_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans DANIELLE** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/13.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_DN_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans DANIELLE** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/14.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_DN_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans DANIELLE** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/15.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+          "NJDT_HR_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans HAERIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/16.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HR_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans HAERIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/17.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HR_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans HAERIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/18.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HR_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans HAERIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/19.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HR_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans HAERIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/20.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+          "NJDT_HY_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans HYEIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/21.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HY_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans HYEIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/22.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HY_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans HYEIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/23.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HY_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans HYEIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/24.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
+        ],
+        "NJDT_HY_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans HYEIN** Ditto",
+                "image": "https://superstarsei.sirv.com/2023/May/Ditto/25.png?format=png",
+                "song": "NewJeans - Ditto (Verse 1)"
+            }
         ]
-        
 }
