@@ -17,6 +17,8 @@
             "BPLG_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/BPLG_LIMITED_CROPPED.png?format=png",
             "TSWC_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/TSWC_LIMITED_CROPPED.png?format=png",
             "IVDC_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVDC_LIMITED_CROPPED.png?format=png",
+            "LSNR_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LSNR_LIMITED_CROPPED.png?format=png",
+            "IVLP_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVLP_LIMITED_CROPPED.png?format=png",
             
             "LGAP_LIMITED_TEXT": "``Limited`` **Lady Gaga** Applause Wallpaper",
             "LNSS_LIMITED_TEXT": "``Limited`` **Lana Del Rey** Summertime Sadness Wallpaper",
@@ -34,6 +36,8 @@
             "BPLG_LIMITED_TEXT": "``Limited`` **BLACKPINK** Lovesick Girls Wallpaper",
             "TSWC_LIMITED_TEXT": "``Limited`` **Taylor Swift** We can shake Wallpaper",
             "IVDC_LIMITED_TEXT": "``Limited`` **IVE** Dreams Come True Wallpaper",
+            "IVLP_LIMITED_TEXT": "``Limited`` **IVE** Lips Wallpaper",
+            "LSNR_LIMITED_TEXT": "``Limited`` **LE SSERAFIM** No-Return Wallpaper",
             
             
             
@@ -60,6 +64,7 @@
             "AESPA_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/AESPA_BASIC_CROPPED.png?format=png",
             "CLASSY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/CLASSY_BASIC_CROPPED.png?format=png",
             "JISOO_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/JISOO_BASIC_CROPPED.png?format=png",
+            "NEWJEANS_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/NEWJEANS_BASIC_CROPPED.png?format=png",
             
             
             "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
@@ -83,7 +88,8 @@
             "IVE_BASIC_TEXT": "`Basic` **IVE** Wallpaper",
             "AESPA_BASIC_TEXT": "`Basic` **aespa** Wallpaper",
             "CLASSY_BASIC_TEXT": "`Basic` **CLASS:y** Wallpaper",
-            "JISOO_BASIC_TEXT": "`Basic` **JISOO** Wallpaper"
+            "JISOO_BASIC_TEXT": "`Basic` **JISOO** Wallpaper",
+            "NEWJEANS_BASIC_TEXT": "`Basic` **NewJeans** Wallpaper"
         }
     ]
 }
