@@ -1,42 +1,50 @@
 {
     "IVEKITSCH1": [
         {
-            "lyrics": "It's our time"
+            "lyrics": "It's our time",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/IVEKITSCH.png?format=png"
         }
     ],
     "IVEKITSCH2": [
         {
-            "lyrics": "Our own carefree ninteens kitsch"
+            "lyrics": "Our own carefree ninteens kitsch",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/IVEKITSCH.png?format=png"
         }
     ],
     "IVEKITSCH3": [
         {
-            "lyrics": "Kitsch, Kitsch, Kitsch"
+            "lyrics": "Kitsch, Kitsch, Kitsch",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/IVEKITSCH.png?format=png"
         }
     ],
     "IVEKITSCH4": [
         {
-            "lyrics": "OOTD"
+            "lyrics": "OOTD",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/IVEKITSCH.png?format=png"
         }
     ],
      "ROSEOTG1": [
         {
-            "lyrics": "Every day, every night"
+            "lyrics": "Every day, every night",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/ROSEOTG.png?format=png"
         }
     ],
      "ROSEOTG2": [
         {
-            "lyrics": "Everything I need is on the ground"
+            "lyrics": "Everything I need is on the ground",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/ROSEOTG.png?format=png"
         }
     ],
     "ROSEOTG3": [
         {
-            "lyrics": "I'm way up in the clouds"
+            "lyrics": "I'm way up in the clouds",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/ROSEOTG.png?format=png"
         }
     ],
     "ROSEOTG4": [
         {
-            "lyrics": "My life's been magic"
+            "lyrics": "My life's been magic",
+            "image": "https://superstarsei.sirv.com/2023/Perform%20Image/ROSEOTG.png?format=png"
         }
     ]
     
