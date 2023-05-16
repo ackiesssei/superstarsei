@@ -18,5 +18,26 @@
         {
             "lyrics": "OOTD"
         }
+    ],
+     "ROSEOTG1": [
+        {
+            "lyrics": "Every day, every night"
+        }
+    ],
+     "ROSEOTG2": [
+        {
+            "lyrics": "Everything I need is on the ground"
+        }
+    ],
+    "ROSEOTG3": [
+        {
+            "lyrics": "I'm way up in the clouds"
+        }
+    ],
+    "ROSEOTG4": [
+        {
+            "lyrics": "My life's been magic"
+        }
     ]
+    
 }
