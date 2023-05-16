@@ -1,10 +1,22 @@
 {
-    "lyrics": [
+    "IVEKITSCH1": [
         {
-            "IVEKITSCH1": "It's our time",
-            "IVEKITSCH2": "Our own carefree ninteens kitsch",
-            "IVEKITSCH3": "Kitsch, Kitsch, Kitsch",
-            "IVEKITSCH4": "OOTD"
+            "lyrics": "It's our time"
         }
-    ]
+    ],
+    "IVEKITSCH2": [
+        {
+            "lyrics": "Our own carefree ninteens kitsch"
+        }
+        ],
+     "IVEKITSCH3": [
+        {
+            "lyrics": "Kitsch, Kitsch, Kitsch"
+        }
+        ],
+     "IVEKITSCH4": [
+        {
+            "lyrics": "OOTD"
+        }
+        ]
 }
