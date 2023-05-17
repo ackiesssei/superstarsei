@@ -30,6 +30,24 @@
       "AEIM_GS": "https://superstarsei.sirv.com/2023/Profiles/Limited/27.png?format=png",
       "AEIM_WT": "https://superstarsei.sirv.com/2023/Profiles/Limited/28.png?format=png",
       "AEIM_NN": "https://superstarsei.sirv.com/2023/Profiles/Limited/29.png?format=png",
+      "IVDC_GA": "https://superstarsei.sirv.com/2023/Profiles/Limited/30.png?format=png",
+      "IVDC_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/31.png?format=png",
+      "IVDC_RE": "https://superstarsei.sirv.com/2023/Profiles/Limited/32.png?format=png",
+      "IVDC_WY": "https://superstarsei.sirv.com/2023/Profiles/Limited/33.png?format=png",
+      "IVDC_LZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/34.png?format=png",
+      "IVDC_LS": "https://superstarsei.sirv.com/2023/Profiles/Limited/35.png?format=png",
+      "JSFL_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/36.png?format=png",
+      "JSFL_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/37.png?format=png",
+      "JSFL_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/38.png?format=png",
+      "TWAF_NY": "https://superstarsei.sirv.com/2023/Profiles/Limited/39.png?format=png",
+      "TWAF_JY": "https://superstarsei.sirv.com/2023/Profiles/Limited/40.png?format=png",
+      "TWAF_MO": "https://superstarsei.sirv.com/2023/Profiles/Limited/41.png?format=png",
+      "TWAF_SN": "https://superstarsei.sirv.com/2023/Profiles/Limited/42.png?format=png",
+      "TWAF_JH": "https://superstarsei.sirv.com/2023/Profiles/Limited/43.png?format=png",
+      "TWAF_MN": "https://superstarsei.sirv.com/2023/Profiles/Limited/44.png?format=png",
+      "TWAF_DH": "https://superstarsei.sirv.com/2023/Profiles/Limited/45.png?format=png",
+      "TWAF_CY": "https://superstarsei.sirv.com/2023/Profiles/Limited/46.png?format=png",
+      "TWAF_TZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/47.png?format=png",
      
       
       "LGAP_V_TEXT": "``Limited`` **Lady Gaga Vocal** Applause Profile Picture",
@@ -60,7 +78,27 @@
       "AEIM_KR_TEXT": "``Limited`` **aespa KARINA** I'm too spicy Profile Picture",
       "AEIM_GS_TEXT": "``Limited`` **aespa GISELLE** I'm too spicy Profile Picture",
       "AEIM_WT_TEXT": "``Limited`` **aespa WINTER** I'm too spicy Profile Picture",
-      "AEIM_NN_TEXT": "``Limited`` **aespa NINGNING** I'm too spicy Profile Picture"
+      "AEIM_NN_TEXT": "``Limited`` **aespa NINGNING** I'm too spicy Profile Picture",
+      "IVDC_GA_TEXT": "``Limited`` **IVE GAEUL** Dreams Come True Profile Picture",
+      "IVDC_YJ_TEXT": "``Limited`` **IVE ANYUJIN** Dreams Come True Profile Picture",
+      "IVDC_RE_TEXT": "``Limited`` **IVE REI** Dreams Come True Profile Picture",
+      "IVDC_WY_TEXT": "``Limited`` **IVE JANGWONYOUNG** Dreams Come True Profile Picture",
+      "IVDC_LZ_TEXT": "``Limited`` **IVE LIZ** Dreams Come True Profile Picture",
+      "IVDC_LS_TEXT": "``Limited`` **IVE LEESEO** Dreams Come True Profile Picture",
+      "JSFL_V_TEXT": "``Limited`` **JISOO Vocal** FLOWER Profile Picture",
+      "JSFL_D_TEXT": "``Limited`` **JISOO Dance** FLOWER Profile Picture",
+      "JSFL_R_TEXT": "``Limited`` **JISOO Rhythm** FLOWER Profile Picture",
+      "TWAF_NY_TEXT": "``Limited`` **TWICE NAYEON** Alcohol-Free Profile Picture",
+      "TWAF_JY_TEXT": "``Limited`` **TWICE JEONGYEON** Alcohol-Free Profile Picture",
+      "TWAF_MO_TEXT": "``Limited`` **TWICE MOMO** Alcohol-Free Profile Picture",
+      "TWAF_SN_TEXT": "``Limited`` **TWICE SANA** Alcohol-Free Profile Picture",
+      "TWAF_JH_TEXT": "``Limited`` **TWICE JIHYO** Alcohol-Free Profile Picture",
+      "TWAF_MN_TEXT": "``Limited`` **TWICE MINA** Alcohol-Free Profile Picture",
+      "TWAF_DH_TEXT": "``Limited`` **TWICE DAHYUN** Alcohol-Free Profile Picture",
+      "TWAF_CY_TEXT": "``Limited`` **TWICE CHAEYOUNG** Alcohol-Free Profile Picture",
+      "TWAF_TZ_TEXT": "``Limited`` **TWICE TZUYU** Alcohol-Free Profile Picture"
+      
+      
      
     }
       ]
