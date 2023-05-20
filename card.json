@@ -5130,5 +5130,215 @@
                 "image": "https://superstarsei.sirv.com/2023/May//Alcohol-Free/45.png?format=png",
                 "song": "TWICE - Alcohol-Free (Verse 1)"
             }
+        ],
+         "AGMO_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **Ariana Grande Vocal** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/1.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **Ariana Grande Vocal** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/2.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **Ariana Grande Vocal** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/3.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **Ariana Grande Vocal** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/4.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **Ariana Grande Vocal** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/5.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **Ariana Grande Dance** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/6.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **Ariana Grande Dance** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/7.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **Ariana Grande Dance** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/8.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **Ariana Grande Dance** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/9.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **Ariana Grande Dance** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/10.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **Ariana Grande Rhythm** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/11.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **Ariana Grande Rhythm** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/12.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **Ariana Grande Rhythm** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/13.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **Ariana Grande Rhythm** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/14.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+        "AGMO_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **Ariana Grande Rhythm** motive",
+                "image": "https://superstarsei.sirv.com/2023/May/motive/15.png?format=png",
+                "song": "Ariana Grande - motive (Verse 1)"
+            }
+        ],
+         "AGPV_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **Ariana Grande Vocal** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/1.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **Ariana Grande Vocal** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/2.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **Ariana Grande Vocal** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/3.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **Ariana Grande Vocal** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/4.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **Ariana Grande Vocal** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/5.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **Ariana Grande Dance** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/6.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **Ariana Grande Dance** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/7.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **Ariana Grande Dance** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/8.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **Ariana Grande Dance** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/9.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **Ariana Grande Dance** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/10.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **Ariana Grande Rhythm** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/11.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **Ariana Grande Rhythm** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/12.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **Ariana Grande Rhythm** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/13.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **Ariana Grande Rhythm** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/14.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
+        ],
+        "AGPV_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **Ariana Grande Rhythm** pov",
+                "image": "https://superstarsei.sirv.com/2023/May/pov/15.png?format=png",
+                "song": "Ariana Grande - pov (Verse 1)"
+            }
         ]
 }
