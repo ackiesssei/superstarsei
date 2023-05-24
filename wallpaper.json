@@ -20,7 +20,9 @@
             "IVLP_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVLP_LIMITED_CROPPED.png?format=png",
             "JSLL_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/JSLL_LIMITED_CROPPED.png?format=png",
             "TWAF_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/TWAF_LIMITED_CROPPED.png?format=png",
-             "JSFL_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/JSFL_LIMITED_CROPPED.png?format=png ",
+             "JSFL_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/JSFL_LIMITED_CROPPED.png?format=png",
+            "AGMO_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AGMO_LIMITED_CROPPED.png?format=png",
+            "AGPV_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AGPV_LIMITED_CROPPED.png?format=png",
           
             
             "LGAP_LIMITED_TEXT": "``Limited`` **Lady Gaga** Applause Wallpaper",
@@ -43,6 +45,8 @@
             "JSLL_LIMITED_TEXT": "``Limited`` **JISOO** lie lie lie Wallpaper",
             "TWAF_LIMITED_TEXT": "``Limited`` **TWICE** Alcohol-Free Wallpaper",
              "JSFL_LIMITED_TEXT": "``Limited`` **JISOO** FLOWER Wallpaper",
+            "AGMO_LIMITED_TEXT": "``Limited`` **Ariana Grande** motive Wallpaper",
+            "AGPV_LIMITED_TEXT": "``Limited`` **Ariana Grande** pov Wallpaper",
             
     
             "FIFTYFIFTY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/FIFTYFIFTY_BASIC_CROP.png?format=png",
@@ -68,6 +72,7 @@
             "CLASSY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/CLASSY_BASIC_CROPPED.png?format=png",
             "JISOO_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/JISOO_BASIC_CROPPED.png?format=png",
             "NEWJEANS_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/NEWJEANS_BASIC_CROPPED.png?format=png",
+            "ARIANAGRANDE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/ARIANAGRANDE_BASIC_CROPPED.png?format=png",
             
             
             "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
@@ -92,7 +97,8 @@
             "AESPA_BASIC_TEXT": "`Basic` **aespa** Wallpaper",
             "CLASSY_BASIC_TEXT": "`Basic` **CLASS:y** Wallpaper",
             "JISOO_BASIC_TEXT": "`Basic` **JISOO** Wallpaper",
-            "NEWJEANS_BASIC_TEXT": "`Basic` **NewJeans** Wallpaper"
+            "NEWJEANS_BASIC_TEXT": "`Basic` **NewJeans** Wallpaper",
+            "ARIANAGRANDE_BASIC_TEXT": "`Basic` **Ariana Grande** Wallpaper"
         }
     ]
 }
