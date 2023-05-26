@@ -12,9 +12,7 @@
             "AESP_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AESP_LIMITED_CROPPED.png?format=png",
             "AEIM_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AEIM_LIMITED_CROPPED.png?format=png",
             "AAGN_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AAGN_LIMITED_CROPPED.png?format=png ",
-            "AEWU_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AEWU_LIMITED_CROPPED.png?format=png",
             "BPLG_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/BPLG_LIMITED_CROPPED.png?format=png",
-            "TSWC_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/TSWC_LIMITED_CROPPED.png?format=png",
             "IVDC_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVDC_LIMITED_CROPPED.png?format=png",
             "LSNR_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LSNR_LIMITED_CROPPED.png?format=png",
             "IVLP_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVLP_LIMITED_CROPPED.png?format=png",
@@ -23,6 +21,9 @@
              "JSFL_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/JSFL_LIMITED_CROPPED.png?format=png",
             "AGMO_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AGMO_LIMITED_CROPPED.png?format=png",
             "AGPV_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AGPV_LIMITED_CROPPED.png?format=png",
+            "AEWU_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AEWU_LIMITED_CROPPED.png?format=png",
+            "TSWC_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/TSWC_LIMITED_CROPPED.png?format=png",
+            "GIAL_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/GIAL_LIMITED_CROPPED.png?format=png",
           
             
             "LGAP_LIMITED_TEXT": "``Limited`` **Lady Gaga** Applause Wallpaper",
@@ -47,6 +48,7 @@
              "JSFL_LIMITED_TEXT": "``Limited`` **JISOO** FLOWER Wallpaper",
             "AGMO_LIMITED_TEXT": "``Limited`` **Ariana Grande** motive Wallpaper",
             "AGPV_LIMITED_TEXT": "``Limited`` **Ariana Grande** pov Wallpaper",
+            "GIAL_LIMITED_TEXT": "``Limited`` **(G)I-DLE** Allergy Wallpaper",
             
     
             "FIFTYFIFTY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/FIFTYFIFTY_BASIC_CROP.png?format=png",
@@ -73,6 +75,7 @@
             "JISOO_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/JISOO_BASIC_CROPPED.png?format=png",
             "NEWJEANS_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/NEWJEANS_BASIC_CROPPED.png?format=png",
             "ARIANAGRANDE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/ARIANAGRANDE_BASIC_CROPPED.png?format=png",
+            "GIDLE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/GIDLE_BASIC_CROPPED.png?format=png",
             
             
             "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
@@ -98,7 +101,9 @@
             "CLASSY_BASIC_TEXT": "`Basic` **CLASS:y** Wallpaper",
             "JISOO_BASIC_TEXT": "`Basic` **JISOO** Wallpaper",
             "NEWJEANS_BASIC_TEXT": "`Basic` **NewJeans** Wallpaper",
-            "ARIANAGRANDE_BASIC_TEXT": "`Basic` **Ariana Grande** Wallpaper"
+            "ARIANAGRANDE_BASIC_TEXT": "`Basic` **Ariana Grande** Wallpaper",
+            "GIDLE_BASIC_TEXT": "`Basic` **(G)I-DLE** Wallpaper"
+            
         }
     ]
 }
