@@ -48,6 +48,15 @@
       "TWAF_DH": "https://superstarsei.sirv.com/2023/Profiles/Limited/45.png?format=png",
       "TWAF_CY": "https://superstarsei.sirv.com/2023/Profiles/Limited/46.png?format=png",
       "TWAF_TZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/47.png?format=png",
+      "GIAL_MY": "https://superstarsei.sirv.com/2023/Profiles/Limited/48.png?format=png",
+      "GIAL_MN": "https://superstarsei.sirv.com/2023/Profiles/Limited/49.png?format=png",
+      "GIAL_SY": "https://superstarsei.sirv.com/2023/Profiles/Limited/50.png?format=png",
+      "GIAL_YQ": "https://superstarsei.sirv.com/2023/Profiles/Limited/51.png?format=png",
+      "GIAL_SH": "https://superstarsei.sirv.com/2023/Profiles/Limited/52.png?format=png",
+      "TSWC_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/53.png?format=png",
+      "TSWC_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/54.png?format=png",
+      "TSWC_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/55.png?format=png",
+      
      
       
       "LGAP_V_TEXT": "``Limited`` **Lady Gaga Vocal** Applause Profile Picture",
@@ -96,7 +105,15 @@
       "TWAF_MN_TEXT": "``Limited`` **TWICE MINA** Alcohol-Free Profile Picture",
       "TWAF_DH_TEXT": "``Limited`` **TWICE DAHYUN** Alcohol-Free Profile Picture",
       "TWAF_CY_TEXT": "``Limited`` **TWICE CHAEYOUNG** Alcohol-Free Profile Picture",
-      "TWAF_TZ_TEXT": "``Limited`` **TWICE TZUYU** Alcohol-Free Profile Picture"
+      "TWAF_TZ_TEXT": "``Limited`` **TWICE TZUYU** Alcohol-Free Profile Picture",
+      "GIAL_MY_TEXT": "``Limited`` **(G)I-DLE MIYEON** Allergy Profile Picture",
+      "GIAL_MN_TEXT": "``Limited`` **(G)I-DLE MINNIE** Allergy Profile Picture",
+      "GIAL_SY_TEXT": "``Limited`` **(G)I-DLE SOYEON** Allergy Profile Picture",
+      "GIAL_YQ_TEXT": "``Limited`` **(G)I-DLE YUQI** Allergy Profile Picture",
+      "GIAL_SH_TEXT": "``Limited`` **(G)I-DLE SHUHUA** Allergy Profile Picture",
+      "TSWC_V_TEXT": "``Limited`` **Taylor Swift Vocal** We can shake Profile Picture",
+      "TSWC_D_TEXT": "``Limited`` **Taylor Swift Dance** We can shake Profile Picture",
+      "TSWC_R_TEXT": "``Limited`` **Taylor Swift Rhythm** We can shake Profile Picture"
       
       
      
