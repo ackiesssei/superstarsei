@@ -5655,5 +5655,670 @@
                 "image": "https://superstarsei.sirv.com/2023/May/Allergy/25.png?format=png",
                 "song": "(G)I-DLE - Allergy (Verse 1)"
             }
+        ],
+         "NMLM_LI_R": [
+            {
+                "name": "<:r:1081522963628699669> **NMIXX LILY** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/1.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_LI_S": [
+            {
+                "name": "<:s:1081522960067727360> **NMIXX LILY** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/2.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_LI_A": [
+            {
+                "name": "<:a:1081522956234133527> **NMIXX LILY** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/3.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_LI_B": [
+            {
+                "name": "<:b:1081522954279591956> **NMIXX LILY** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/4.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_LI_C": [
+            {
+                "name": "<:c:1081522950961909860> **NMIXX LILY** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/5.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+              "NMLM_HW_R": [
+            {
+                "name": "<:r:1081522963628699669> **NMIXX HAEWON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/6.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_HW_S": [
+            {
+                "name": "<:s:1081522960067727360> **NMIXX HAEWON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/7.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_HW_A": [
+            {
+                "name": "<:a:1081522956234133527> **NMIXX HAEWON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/8.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_HW_B": [
+            {
+                "name": "<:b:1081522954279591956> **NMIXX HAEWON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/9.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_HW_C": [
+            {
+                "name": "<:c:1081522950961909860> **NMIXX HAEWON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/10.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+              "NMLM_SY_R": [
+            {
+                "name": "<:r:1081522963628699669> **NMIXX SULLYOON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/11.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_SY_S": [
+            {
+                "name": "<:s:1081522960067727360> **NMIXX SULLYOON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/12.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_SY_A": [
+            {
+                "name": "<:a:1081522956234133527> **NMIXX SULLYOON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/13.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_SY_B": [
+            {
+                "name": "<:b:1081522954279591956> **NMIXX SULLYOON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/14.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_SY_C": [
+            {
+                "name": "<:c:1081522950961909860> **NMIXX SULLYOON** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/15.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+              "NMLM_BA_R": [
+            {
+                "name": "<:r:1081522963628699669> **NMIXX BAE** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/16.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_BA_S": [
+            {
+                "name": "<:s:1081522960067727360> **NMIXX BAE** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/17.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_BA_A": [
+            {
+                "name": "<:a:1081522956234133527> **NMIXX BAE** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/18.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_BA_B": [
+            {
+                "name": "<:b:1081522954279591956> **NMIXX BAE** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/19.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_BA_C": [
+            {
+                "name": "<:c:1081522950961909860> **NMIXX BAE** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/20.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+              "NMLM_JW_R": [
+            {
+                "name": "<:r:1081522963628699669> **NMIXX JIWOO** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/21.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_JW_S": [
+            {
+                "name": "<:s:1081522960067727360> **NMIXX JIWOO** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/22.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_JW_A": [
+            {
+                "name": "<:a:1081522956234133527> **NMIXX JIWOO** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/23.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_JW_B": [
+            {
+                "name": "<:b:1081522954279591956> **NMIXX JIWOO** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/24.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_JW_C": [
+            {
+                "name": "<:c:1081522950961909860> **NMIXX JIWOO** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/25.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+              "NMLM_KJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **NMIXX KYUJIN** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/26.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_KJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **NMIXX KYUJIN** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/27.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_KJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **NMIXX KYUJIN** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/28.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_KJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **NMIXX KYUJIN** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/29.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+        "NMLM_KJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **NMIXX KYUJIN** Love Me Like This",
+                "image": "https://superstarsei.sirv.com/2023/June/Love%20Me%20Like%20This/30.png?format=png",
+                "song": "NMIXX - Love Me Like This (Verse 1)"
+            }
+        ],
+         "IVTI_GA_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE GAEUL** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/1.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_GA_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE GAEUL** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/2.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_GA_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE GAEUL** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/3.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_GA_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE GAEUL** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/4.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_GA_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE GAEUL** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/5.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_YJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE ANYUJIN** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/6.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_YJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE ANYUJIN** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/7.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_YJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE ANYUJIN** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/8.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_YJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE ANYUJIN** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/9.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_YJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE ANYUJIN** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/10.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_RE_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE REI** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/11.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_RE_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE REI** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/12.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_RE_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE REI** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/13_fix.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_RE_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE REI** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/14_fix.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_RE_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE REI** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/15.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_WY_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE JANGWONYOUNG** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/16.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_WY_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE JANGWONYOUNG** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/17.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_WY_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE JANGWONYOUNG** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/18.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_WY_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE JANGWONYOUNG** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/19.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_WY_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE JANGWONYOUNG** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/20.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LZ_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE LIZ** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/21.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LZ_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE LIZ** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/22.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LZ_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE LIZ** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/23.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LZ_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE LIZ** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/24.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LZ_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE LIZ** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/25.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LS_R": [
+            {
+                "name": "<:r:1081522963628699669> **IVE LEESEO** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/26.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LS_S": [
+            {
+                "name": "<:s:1081522960067727360> **IVE LEESEO** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/27.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LS_A": [
+            {
+                "name": "<:a:1081522956234133527> **IVE LEESEO** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/28.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LS_B": [
+            {
+                "name": "<:b:1081522954279591956> **IVE LEESEO** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/29.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+        "IVTI_LS_C": [
+            {
+                "name": "<:c:1081522950961909860> **IVE LEESEO** That is who I am",
+                "image": "https://superstarsei.sirv.com/2023/June/That%20is%20who%20I%20am/30.png?format=png",
+                "song": "IVE - I AM (Full)"
+            }
+        ],
+         "XGLR_CS_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG CHISA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/1.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CS_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG CHISA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/2.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CS_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG CHISA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/3.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CS_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG CHISA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/4.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CS_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG CHISA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/5.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+              "XGLR_HN_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG HINATA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/6.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HN_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG HINATA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/7.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HN_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG HINATA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/8.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HN_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG HINATA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/9.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HN_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG HINATA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/10.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+              "XGLR_JR_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG JURIN** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/11.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JR_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG JURIN** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/12.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JR_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG JURIN** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/13.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JR_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG JURIN** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/14.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JR_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG JURIN** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/15.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+              "XGLR_HV_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG HARVEY** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/16.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HV_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG HARVEY** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/17.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HV_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG HARVEY** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/18.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HV_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG HARVEY** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/19.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_HV_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG HARVEY** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/20.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+              "XGLR_JU_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG JURIA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/21.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JU_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG JURIA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/22.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JU_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG JURIA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/23.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JU_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG JURIA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/24.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_JU_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG JURIA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/25.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+              "XGLR_MY_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG MAYA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/26.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_MY_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG MAYA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/27.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_MY_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG MAYA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/28.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_MY_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG MAYA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/29.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_MY_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG MAYA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/30.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+              "XGLR_CO_R": [
+            {
+                "name": "<:r:1081522963628699669> **XG COCONA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/26.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CO_S": [
+            {
+                "name": "<:s:1081522960067727360> **XG COCONA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/27.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CO_A": [
+            {
+                "name": "<:a:1081522956234133527> **XG COCONA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/28.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CO_B": [
+            {
+                "name": "<:b:1081522954279591956> **XG COCONA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/29.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
+        ],
+        "XGLR_CO_C": [
+            {
+                "name": "<:c:1081522950961909860> **XG COCONA** Left Right",
+                "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/30.png?format=png",
+                "song": "XG - Left Right (Verse 1)"
+            }
         ]
 }
