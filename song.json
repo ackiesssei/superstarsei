@@ -686,5 +686,165 @@
                 "album": "CLASS IS OVER",
                 "image": "https://superstarsei.sirv.com/2023/Stream/10.png?format=png"
             }
+        ],
+        "GID_1": [
+            {
+                "song": "HANN (Alone in winter)",
+                "artist": "(G)I-DLE",
+                "album": "I burn",
+                "image": "https://superstarsei.sirv.com/2023/Stream/11.png?format=png"
+            }
+        ],
+       "GID_2": [
+            {
+                "song": "HWAA",
+                "artist": "(G)I-DLE",
+                "album": "I burn",
+                "image": "https://superstarsei.sirv.com/2023/Stream/11.png?format=png"
+            }
+        ],
+       "GID_3": [
+            {
+                "song": "MOON",
+                "artist": "(G)I-DLE",
+                "album": "I burn",
+                "image": "https://superstarsei.sirv.com/2023/Stream/11.png?format=png"
+            }
+        ],
+       "GID_4": [
+            {
+                "song": "Where is love",
+                "artist": "(G)I-DLE",
+                "album": "I burn",
+                "image": "https://superstarsei.sirv.com/2023/Stream/11.png?format=png"
+            }
+        ],
+       "GID_5": [
+            {
+                "song": "LOST",
+                "artist": "(G)I-DLE",
+                "album": "I burn",
+                "image": "https://superstarsei.sirv.com/2023/Stream/11.png?format=png"
+            }
+        ],
+     "GID_6": [
+            {
+                "song": "DAHLIA",
+                "artist": "(G)I-DLE",
+                "album": "I burn",
+                "image": "https://superstarsei.sirv.com/2023/Stream/11.png?format=png"
+            }
+        ],
+       "GID_7": [
+            {
+                "song": "TOMBOY",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_8": [
+            {
+                "song": "Never Stop Me",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_9": [
+            {
+                "song": "VILLAIN DIES",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_10": [
+            {
+                "song": "ALREADY",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_11": [
+            {
+                "song": "POLAROID",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_12": [
+            {
+                "song": "ESCAPE",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_13": [
+            {
+                "song": "LIAR",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+    "GID_14": [
+            {
+                "song": "MY BAG",
+                "artist": "(G)I-DLE",
+                "album": "I NEVER DIE",
+                "image": "https://superstarsei.sirv.com/2023/Stream/12.png?format=png"
+            }
+        ],
+      "GID_15": [
+            {
+                "song": "Queencard",
+                "artist": "(G)I-DLE",
+                "album": "I feel",
+                "image": "https://superstarsei.sirv.com/2023/Stream/13.png?format=png"
+            }
+        ],
+        "GID_16": [
+            {
+                "song": "Allergy",
+                "artist": "(G)I-DLE",
+                "album": "I feel",
+                "image": "https://superstarsei.sirv.com/2023/Stream/13.png?format=png"
+            }
+        ],
+        "GID_17": [
+            {
+                "song": "Lucid",
+                "artist": "(G)I-DLE",
+                "album": "I feel",
+                "image": "https://superstarsei.sirv.com/2023/Stream/13.png?format=png"
+            }
+        ],
+        "GID_18": [
+            {
+                "song": "All Night",
+                "artist": "(G)I-DLE",
+                "album": "I feel",
+                "image": "https://superstarsei.sirv.com/2023/Stream/13.png?format=png"
+            }
+        ],
+        "GID_19": [
+            {
+                "song": "Paradise",
+                "artist": "(G)I-DLE",
+                "album": "I feel",
+                "image": "https://superstarsei.sirv.com/2023/Stream/13.png?format=png"
+            }
+        ],
+        "GID_20": [
+            {
+                "song": "Peter Pan",
+                "artist": "(G)I-DLE",
+                "album": "I feel",
+                "image": "https://superstarsei.sirv.com/2023/Stream/13.png?format=png"
+            }
         ]
 }
