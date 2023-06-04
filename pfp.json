@@ -56,6 +56,25 @@
       "TSWC_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/53.png?format=png",
       "TSWC_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/54.png?format=png",
       "TSWC_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/55.png?format=png",
+      "XGLR_CS": "https://superstarsei.sirv.com/2023/Profiles/Limited/56.png?format=png",
+      "XGLR_HN": "https://superstarsei.sirv.com/2023/Profiles/Limited/57.png?format=png",
+      "XGLR_JR": "https://superstarsei.sirv.com/2023/Profiles/Limited/58.png?format=png",
+      "XGLR_HV": "https://superstarsei.sirv.com/2023/Profiles/Limited/59.png?format=png",
+      "XGLR_JU": "https://superstarsei.sirv.com/2023/Profiles/Limited/60.png?format=png",
+      "XGLR_MY": "https://superstarsei.sirv.com/2023/Profiles/Limited/61.png?format=png",
+      "XGLR_CO": "https://superstarsei.sirv.com/2023/Profiles/Limited/62.png?format=png",
+      "NMLM_LI": "https://superstarsei.sirv.com/2023/Profiles/Limited/63.png?format=png",
+      "NMLM_HW": "https://superstarsei.sirv.com/2023/Profiles/Limited/64.png?format=png",
+      "NMLM_SY": "https://superstarsei.sirv.com/2023/Profiles/Limited/65.png?format=png",
+      "NMLM_BA": "https://superstarsei.sirv.com/2023/Profiles/Limited/66.png?format=png",
+      "NMLM_JW": "https://superstarsei.sirv.com/2023/Profiles/Limited/67.png?format=png",
+      "NMLM_KJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/68.png?format=png",
+      "IVTI_GA": "https://superstarsei.sirv.com/2023/Profiles/Limited/69.png?format=png",
+      "IVTI_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/70.png?format=png",
+      "IVTI_RE": "https://superstarsei.sirv.com/2023/Profiles/Limited/71.png?format=png",
+      "IVTI_WY": "https://superstarsei.sirv.com/2023/Profiles/Limited/72.png?format=png",
+      "IVTI_LZ": "https://superstarsei.sirv.com/2023/Profiles/Limited/73.png?format=png",
+      "IVTI_LS": "https://superstarsei.sirv.com/2023/Profiles/Limited/74.png?format=png",
       
      
       
@@ -113,7 +132,27 @@
       "GIAL_SH_TEXT": "``Limited`` **(G)I-DLE SHUHUA** Allergy Profile Picture",
       "TSWC_V_TEXT": "``Limited`` **Taylor Swift Vocal** We can shake Profile Picture",
       "TSWC_D_TEXT": "``Limited`` **Taylor Swift Dance** We can shake Profile Picture",
-      "TSWC_R_TEXT": "``Limited`` **Taylor Swift Rhythm** We can shake Profile Picture"
+      "TSWC_R_TEXT": "``Limited`` **Taylor Swift Rhythm** We can shake Profile Picture",
+      "XGLR_CS_TEXT": "``Limited`` **XG CHISA** Left Right Profile Picture",
+       "XGLR_HN_TEXT": "``Limited`` **XG HINATA** Left Right Profile Picture",
+       "XGLR_JR_TEXT": "``Limited`` **XG JURIN** Left Right Profile Picture",
+       "XGLR_HV_TEXT": "``Limited`` **XG HARVEY** Left Right Profile Picture",
+       "XGLR_JU_TEXT": "``Limited`` **XG JURIA** Left Right Profile Picture",
+       "XGLR_MY_TEXT": "``Limited`` **XG MAYA** Left Right Profile Picture",
+       "XGLR_CO_TEXT": "``Limited`` **XG COCONA** Left Right Profile Picture",
+      "NMLM_LI_TEXT": "``Limited`` **NMIXX LILY** Love Me Like This Profile Picture",
+      "NMLM_HW_TEXT": "``Limited`` **NMIXX HAEWON** Love Me Like This Profile Picture",
+      "NMLM_SY_TEXT": "``Limited`` **NMIXX SULLYOON** Love Me Like This Profile Picture",
+      "NMLM_BA_TEXT": "``Limited`` **NMIXX BAE** Love Me Like This Profile Picture",
+      "NMLM_JW_TEXT": "``Limited`` **NMIXX JIWOO** Love Me Like This Profile Picture",
+      "NMLM_KJ_TEXT": "``Limited`` **NMIXX KYUJIN** Love Me Like This Profile Picture",
+      "IVTI_GA_TEXT": "``Limited`` **IVE GAEUL** That is who I am Profile Picture",
+      "IVTI_YJ_TEXT": "``Limited`` **IVE ANYUJIN** That is who I am Profile Picture",
+      "IVTI_RE_TEXT": "``Limited`` **IVE REI** That is who I am Profile Picture",
+      "IVTI_WY_TEXT": "``Limited`` **IVE JANGWONYOUNG** That is who I am Profile Picture",
+      "IVTI_LZ_TEXT": "``Limited`` **IVE LIZ** That is who I am Profile Picture",
+      "IVTI_LS_TEXT": "``Limited`` **IVE LEESEO** That is who I am Profile Picture"
+      
       
       
      
