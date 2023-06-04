@@ -1,6 +1,25 @@
 {
     "wallpapers": [
         {
+            
+            "XGLR_CS_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_CS_PREMIUM_CROPPED.png?format=png", 
+            "XGLR_HN_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_HN_PREMIUM_CROPPED.png?format=png", 
+            "XGLR_JR_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_JR_PREMIUM_CROPPED.png?format=png", 
+            "XGLR_HV_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_HV_PREMIUM_CROPPED.png?format=png", 
+            "XGLR_JU_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_JU_PREMIUM_CROPPED.png?format=png", 
+            "XGLR_MY_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_MY_PREMIUM_CROPPED.png?format=png", 
+            "XGLR_CO_PREMIUM": "https://superstarsei.sirv.com/2023/Wallpapers/Premium/CROPPED/XGLR_CO_PREMIUM_CROPPED.png?format=png",
+            
+            "XGLR_CS_PREMIUM_TEXT": "``Premium`` **XG CHISA** Left Right Wallpaper",
+            "XGLR_HN_PREMIUM_TEXT": "``Premium`` **XG HINATA** Left Right Wallpaper",
+            "XGLR_JR_PREMIUM_TEXT": "``Premium`` **XG JURIN** Left Right Wallpaper",
+            "XGLR_HV_PREMIUM_TEXT": "``Premium`` **XG HARVEY** Left Right Wallpaper",
+            "XGLR_JU_PREMIUM_TEXT": "``Premium`` **XG JURIA** Left Right Wallpaper",
+            "XGLR_MY_PREMIUM_TEXT": "``Premium`` **XG MAYA** Left Right Wallpaper",
+            "XGLR_CO_PREMIUM_TEXT": "``Premium`` **XG COCONA** Left Right Wallpaper",
+            
+            
+            
             "LGAP_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LGAP_LIMITED_CROPPED.png?format=png",
             "LNSS_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/LNSS_LIMITED_CROPPED.png?format=png",
             "IVIA_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVIA_LIMITED_CROPPED.png?format=png",
@@ -24,6 +43,10 @@
             "AEWU_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/AEWU_LIMITED_CROPPED.png?format=png",
             "TSWC_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/TSWC_LIMITED_CROPPED.png?format=png",
             "GIAL_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/GIAL_LIMITED_CROPPED.png?format=png",
+            "XGLR_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/XGLR_LIMITED_CROPPED.png?format=png",
+            "NMLM_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/NMLM_LIMITED_CROPPED.png?format=png",
+            "IVTI_LIMITED": "https://superstarsei.sirv.com/2023/Wallpapers/Limited/CROPPED/IVTI_LIMITED_CROPPED.png?format=png",
+            
           
             
             "LGAP_LIMITED_TEXT": "``Limited`` **Lady Gaga** Applause Wallpaper",
@@ -49,6 +72,10 @@
             "AGMO_LIMITED_TEXT": "``Limited`` **Ariana Grande** motive Wallpaper",
             "AGPV_LIMITED_TEXT": "``Limited`` **Ariana Grande** pov Wallpaper",
             "GIAL_LIMITED_TEXT": "``Limited`` **(G)I-DLE** Allergy Wallpaper",
+            "XGLR_LIMITED_TEXT": "``Limited`` **XG** Left Right Wallpaper",
+            "NMLM_LIMITED_TEXT": "``Limited`` **NMIXX** Love Me Like This Wallpaper",
+            "IVTI_LIMITED_TEXT": "``Limited`` **IVE** That is who I am Wallpaper",
+            
             
     
             "FIFTYFIFTY_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/FIFTYFIFTY_BASIC_CROP.png?format=png",
