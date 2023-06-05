@@ -6320,5 +6320,565 @@
                 "image": "https://superstarsei.sirv.com/2023/June/Left%20Right/35.png?format=png",
                 "song": "XG - Left Right (Verse 1)"
             }
+        ],
+        "STTB_SM_R": [
+            {
+                "name": "<:r:1081522963628699669> **STAYC SUMIN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/1.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SM_S": [
+            {
+                "name": "<:s:1081522960067727360> **STAYC SUMIN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/2.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SM_A": [
+            {
+                "name": "<:a:1081522956234133527> **STAYC SUMIN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/3.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SM_B": [
+            {
+                "name": "<:b:1081522954279591956> **STAYC SUMIN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/4.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SM_C": [
+            {
+                "name": "<:c:1081522950961909860> **STAYC SUMIN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/5.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SI_R": [
+            {
+                "name": "<:r:1081522963628699669> **STAYC SIEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/6.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SI_S": [
+            {
+                "name": "<:s:1081522960067727360> **STAYC SIEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/7.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SI_A": [
+            {
+                "name": "<:a:1081522956234133527> **STAYC SIEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/8.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SI_B": [
+            {
+                "name": "<:b:1081522954279591956> **STAYC SIEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/9.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SI_C": [
+            {
+                "name": "<:c:1081522950961909860> **STAYC SIEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/10.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_IS_R": [
+            {
+                "name": "<:r:1081522963628699669> **STAYC ISA** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/11.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_IS_S": [
+            {
+                "name": "<:s:1081522960067727360> **STAYC ISA** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/12.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_IS_A": [
+            {
+                "name": "<:a:1081522956234133527> **STAYC ISA** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/13.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_IS_B": [
+            {
+                "name": "<:b:1081522954279591956> **STAYC ISA** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/14.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_IS_C": [
+            {
+                "name": "<:c:1081522950961909860> **STAYC ISA** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/15.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SE_R": [
+            {
+                "name": "<:r:1081522963628699669> **STAYC SEEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/16.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SE_S": [
+            {
+                "name": "<:s:1081522960067727360> **STAYC SEEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/17.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SE_A": [
+            {
+                "name": "<:a:1081522956234133527> **STAYC SEEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/18.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SE_B": [
+            {
+                "name": "<:b:1081522954279591956> **STAYC SEEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/19.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_SE_C": [
+            {
+                "name": "<:c:1081522950961909860> **STAYC SEEUN** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/20.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_YO_R": [
+            {
+                "name": "<:r:1081522963628699669> **STAYC YOON** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/21.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_YO_S": [
+            {
+                "name": "<:s:1081522960067727360> **STAYC YOON** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/22.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_YO_A": [
+            {
+                "name": "<:a:1081522956234133527> **STAYC YOON** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/23.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_YO_B": [
+            {
+                "name": "<:b:1081522954279591956> **STAYC YOON** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/24.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_YO_C": [
+            {
+                "name": "<:c:1081522950961909860> **STAYC YOON** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/25.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_J_R": [
+            {
+                "name": "<:r:1081522963628699669> **STAYC J** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/26.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_J_S": [
+            {
+                "name": "<:s:1081522960067727360> **STAYC J** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/27.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_J_A": [
+            {
+                "name": "<:a:1081522956234133527> **STAYC J** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/28.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_J_B": [
+            {
+                "name": "<:b:1081522954279591956> **STAYC J** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/29.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+        "STTB_J_C": [
+            {
+                "name": "<:c:1081522950961909860> **STAYC J** Teddy Bear",
+                "image": "https://superstarsei.sirv.com/2023/June/Teddy%20Bear/30.png?format=png",
+                "song": "STAYC - Teddy Bear (Verse 1)"
+            }
+        ],
+         "NJGC_MJ_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans MINJI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/1.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_MJ_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans MINJI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/2.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_MJ_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans MINJI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/3.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_MJ_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans MINJI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/4.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_MJ_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans MINJI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/5.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+          "NJGC_HN_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans HANNI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/6.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HN_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans HANNI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/7.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HN_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans HANNI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/8.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HN_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans HANNI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/9.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HN_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans HANNI** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/10.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+          "NJGC_DN_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans DANIELLE** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/11.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_DN_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans DANIELLE** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/12.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_DN_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans DANIELLE** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/13.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_DN_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans DANIELLE** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/14.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_DN_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans DANIELLE** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/15.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+          "NJGC_HR_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans HAERIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/16.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HR_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans HAERIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/17.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HR_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans HAERIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/18.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HR_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans HAERIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/19.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HR_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans HAERIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/20.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+          "NJGC_HY_R": [
+            {
+                "name": "<:r:1081522963628699669> **NewJeans HYEIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/21.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HY_S": [
+            {
+                "name": "<:s:1081522960067727360> **NewJeans HYEIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/22.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HY_A": [
+            {
+                "name": "<:a:1081522956234133527> **NewJeans HYEIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/23.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HY_B": [
+            {
+                "name": "<:b:1081522954279591956> **NewJeans HYEIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/24.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+        "NJGC_HY_C": [
+            {
+                "name": "<:c:1081522950961909860> **NewJeans HYEIN** going crazy",
+                "image": "https://superstarsei.sirv.com/2023/June/going%20crazy/25.png?format=png",
+                "song": "NewJeans - OMG (Verse 1)"
+            }
+        ],
+                   "GILC_MY_R": [
+            {
+                "name": "<:r:1081522963628699669> **(G)I-DLE MIYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/1.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MY_S": [
+            {
+                "name": "<:s:1081522960067727360> **(G)I-DLE MIYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/2.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MY_A": [
+            {
+                "name": "<:a:1081522956234133527> **(G)I-DLE MIYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/3.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MY_B": [
+            {
+                "name": "<:b:1081522954279591956> **(G)I-DLE MIYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/4.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MY_C": [
+            {
+                "name": "<:c:1081522950961909860> **(G)I-DLE MIYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/5.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+          "GILC_MN_R": [
+            {
+                "name": "<:r:1081522963628699669> **(G)I-DLE MINNIE** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/6.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MN_S": [
+            {
+                "name": "<:s:1081522960067727360> **(G)I-DLE MINNIE** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/7.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MN_A": [
+            {
+                "name": "<:a:1081522956234133527> **(G)I-DLE MINNIE** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/8.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MN_B": [
+            {
+                "name": "<:b:1081522954279591956> **(G)I-DLE MINNIE** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/9.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_MN_C": [
+            {
+                "name": "<:c:1081522950961909860> **(G)I-DLE MINNIE** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/10.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+          "GILC_SY_R": [
+            {
+                "name": "<:r:1081522963628699669> **(G)I-DLE SOYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/11.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SY_S": [
+            {
+                "name": "<:s:1081522960067727360> **(G)I-DLE SOYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/12.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SY_A": [
+            {
+                "name": "<:a:1081522956234133527> **(G)I-DLE SOYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/13.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SY_B": [
+            {
+                "name": "<:b:1081522954279591956> **(G)I-DLE SOYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/14.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SY_C": [
+            {
+                "name": "<:c:1081522950961909860> **(G)I-DLE SOYEON** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/15.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+          "GILC_YQ_R": [
+            {
+                "name": "<:r:1081522963628699669> **(G)I-DLE YUQI** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/16.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_YQ_S": [
+            {
+                "name": "<:s:1081522960067727360> **(G)I-DLE YUQI** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/17.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_YQ_A": [
+            {
+                "name": "<:a:1081522956234133527> **(G)I-DLE YUQI** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/18.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_YQ_B": [
+            {
+                "name": "<:b:1081522954279591956> **(G)I-DLE YUQI** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/19.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_YQ_C": [
+            {
+                "name": "<:c:1081522950961909860> **(G)I-DLE YUQI** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/20.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+          "GILC_SH_R": [
+            {
+                "name": "<:r:1081522963628699669> **(G)I-DLE SHUHUA** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/21.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SH_S": [
+            {
+                "name": "<:s:1081522960067727360> **(G)I-DLE SHUHUA** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/22.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SH_A": [
+            {
+                "name": "<:a:1081522956234133527> **(G)I-DLE SHUHUA** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/23.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SH_B": [
+            {
+                "name": "<:b:1081522954279591956> **(G)I-DLE SHUHUA** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/24.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
+        ],
+        "GILC_SH_C": [
+            {
+                "name": "<:c:1081522950961909860> **(G)I-DLE SHUHUA** Lucid",
+                "image": "https://superstarsei.sirv.com/2023/June/Lucid/25.png?format=png",
+                "song": "(G)I-DLE - Lucid (Verse 1)"
+            }
         ]
 }
