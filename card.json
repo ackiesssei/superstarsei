@@ -6880,5 +6880,110 @@
                 "image": "https://superstarsei.sirv.com/2023/June/Lucid/25.png?format=png",
                 "song": "(G)I-DLE - Lucid (Verse 1)"
             }
+        ],
+                "TSSF_V_R": [
+            {
+                "name": "<:r:1081522963628699669> **Taylor Swift Vocal** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/1.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_V_S": [
+            {
+                "name": "<:s:1081522960067727360> **Taylor Swift Vocal** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/2.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_V_A": [
+            {
+                "name": "<:a:1081522956234133527> **Taylor Swift Vocal** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/3.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_V_B": [
+            {
+                "name": "<:b:1081522954279591956> **Taylor Swift Vocal** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/4.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_V_C": [
+            {
+                "name": "<:c:1081522950961909860> **Taylor Swift Vocal** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/5.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+         "TSSF_D_R": [
+            {
+                "name": "<:r:1081522963628699669> **Taylor Swift Dance** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/6.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_D_S": [
+            {
+                "name": "<:s:1081522960067727360> **Taylor Swift Dance** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/7.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_D_A": [
+            {
+                "name": "<:a:1081522956234133527> **Taylor Swift Dance** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/8.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_D_B": [
+            {
+                "name": "<:b:1081522954279591956> **Taylor Swift Dance** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/9.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_D_C": [
+            {
+                "name": "<:c:1081522950961909860> **Taylor Swift Dance** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/10.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+         "TSSF_R_R": [
+            {
+                "name": "<:r:1081522963628699669> **Taylor Swift Rhythm** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/11.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_R_S": [
+            {
+                "name": "<:s:1081522960067727360> **Taylor Swift Rhythm** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/12.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_R_A": [
+            {
+                "name": "<:a:1081522956234133527> **Taylor Swift Rhythm** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/13.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_R_B": [
+            {
+                "name": "<:b:1081522954279591956> **Taylor Swift Rhythm** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/14.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
+        ],
+        "TSSF_R_C": [
+            {
+                "name": "<:c:1081522950961909860> **Taylor Swift Rhythm** Sparks Fly",
+                "image": "https://superstarsei.sirv.com/2023/June/Sparks%20Fly/15.png?format=png",
+                "song": "Taylor Swift - Sparks Fly (Verse 1)"
+            }
         ]
 }
