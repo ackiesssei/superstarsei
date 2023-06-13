@@ -116,6 +116,8 @@
             "NEWJEANS_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/NEWJEANS_BASIC_CROPPED.png?format=png",
             "ARIANAGRANDE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/ARIANAGRANDE_BASIC_CROPPED.png?format=png",
             "GIDLE_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/GIDLE_BASIC_CROPPED.png?format=png",
+            "GFRIEND_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/GFRIEND_BASIC_CROPPED.png?format=png",
+            "LAPILLUS_BASIC": "https://superstarsei.sirv.com/2023/Wallpapers/Basic/CROPPED/LAPILLUS_BASIC_CROPPED.png?format=png",
             
             
             "FIFTYFIFTY_BASIC_TEXT": "`Basic` **FIFTY FIFTY** Wallpaper",
@@ -142,7 +144,9 @@
             "JISOO_BASIC_TEXT": "`Basic` **JISOO** Wallpaper",
             "NEWJEANS_BASIC_TEXT": "`Basic` **NewJeans** Wallpaper",
             "ARIANAGRANDE_BASIC_TEXT": "`Basic` **Ariana Grande** Wallpaper",
-            "GIDLE_BASIC_TEXT": "`Basic` **(G)I-DLE** Wallpaper"
+            "GIDLE_BASIC_TEXT": "`Basic` **(G)I-DLE** Wallpaper",
+            "GFRIEND_BASIC_TEXT": "`Basic` **GFRIEND** Wallpaper",
+            "LAPILLUS_BASIC_TEXT": "`Basic` **LAPILLUS** Wallpaper"
             
         }
     ]
