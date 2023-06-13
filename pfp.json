@@ -91,6 +91,15 @@
      "STTB_SE": "https://superstarsei.sirv.com/2023/Profiles/Limited/88.png?format=png",
      "STTB_YO": "https://superstarsei.sirv.com/2023/Profiles/Limited/89.png?format=png",
      "STTB_J": "https://superstarsei.sirv.com/2023/Profiles/Limited/90.png?format=png",
+     "TSSF_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/91.png?format=png",
+     "TSSF_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/92.png?format=png",
+     "TSSF_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/93.png?format=png",
+     "GFMG_SW": "https://superstarsei.sirv.com/2023/Profiles/Limited/94.png?format=png",
+      "GFMG_YR": "https://superstarsei.sirv.com/2023/Profiles/Limited/95.png?format=png",
+      "GFMG_EN": "https://superstarsei.sirv.com/2023/Profiles/Limited/96.png?format=png",
+      "GFMG_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/97.png?format=png",
+      "GFMG_SB": "https://superstarsei.sirv.com/2023/Profiles/Limited/98.png?format=png",
+      "GFMG_UM": "https://superstarsei.sirv.com/2023/Profiles/Limited/99.png?format=png",
 
 
 
@@ -184,7 +193,17 @@
      "STTB_IS_TEXT": "``Limited`` **STAYC ISA** Teddy Bear Profile Picture",
      "STTB_SE_TEXT": "``Limited`` **STAYC SEEUN** Teddy Bear Profile Picture",
      "STTB_YO_TEXT": "``Limited`` **STAYC YOON** Teddy Bear Profile Picture",
-     "STTB_J_TEXT": "``Limited`` **STAYC J** Teddy Bear Profile Picture"
+     "STTB_J_TEXT": "``Limited`` **STAYC J** Teddy Bear Profile Picture",
+     "TSSF_V_TEXT": "``Limited`` **Taylor Swift Vocal** Sparks Fly Profile Picture",
+     "TSSF_D_TEXT": "``Limited`` **Taylor Swift Dance** Sparks Fly Profile Picture",
+     "TSSF_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Sparks Fly Profile Picture",
+     "GFMG_SW_TEXT": "``Limited`` **GFRIEND SOWON** MAGO Profile Picture",
+     "GFMG_YR_TEXT": "``Limited`` **GFRIEND YERIN** MAGO Profile Picture",
+     "GFMG_EN_TEXT": "``Limited`` **GFRIEND EUNHA** MAGO Profile Picture",
+     "GFMG_YJ_TEXT": "``Limited`` **GFRIEND YUJU** MAGO Profile Picture",
+     "GFMG_SB_TEXT": "``Limited`` **GFRIEND SINB** MAGO Profile Picture",
+     "GFMG_UM_TEXT": "``Limited`` **GFRIEND UMJI** MAGO Profile Picture"
+         
 
 
       
