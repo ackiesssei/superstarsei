@@ -1,6 +1,28 @@
      {  
   "pfps": [
     {
+     "TSMR_V_DESC": "Midnight Rain",
+     "TSMR_D_DESC": "Midnight Rain",
+         "TSMR_R_DESC": "Midnight Rain",
+         "TSKR_V_DESC": "Karma",
+         "TSKR_D_DESC": "Karma",
+         "TSKR_R_DESC": "Karma",
+         "TSMA_V_DESC": "Maroon",
+         "TSMA_D_DESC": "Maroon",
+         "TSMA_R_DESC": "Maroon",
+         "TSBJ_V_DESC": "Bejeweled",
+         "TSBJ_D_DESC": "Bejeweled",
+         "TSBJ_R_DESC": "Bejeweled",
+         "TSHD_V_DESC": "Hits Different",
+         "TSHD_D_DESC": "Hits Different",
+         "TSHD_R_DESC": "Hits Different",
+         "TSSO_V_DESC": "Snow on The Beach",
+         "TSSO_D_DESC": "Snow on The Beach",
+         "TSSO_R_DESC": "Snow on The Beach",
+         
+         
+         
+         
      "LGAP_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/1.png?format=png",
      "LGAP_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/2.png?format=png",
      "LGAP_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/3.png?format=png",
@@ -100,6 +122,25 @@
       "GFMG_YJ": "https://superstarsei.sirv.com/2023/Profiles/Limited/97.png?format=png",
       "GFMG_SB": "https://superstarsei.sirv.com/2023/Profiles/Limited/98.png?format=png",
       "GFMG_UM": "https://superstarsei.sirv.com/2023/Profiles/Limited/99.png?format=png",
+      "TSSO_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/1.png?format=png",
+         "TSSO_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/2.png?format=png",
+         "TSSO_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/3.png?format=png",
+         "TSMR_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/4.png?format=png",
+         "TSMR_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/5.png?format=png",
+         "TSMR_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/6.png?format=png",
+         "TSKR_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/7.png?format=png",
+         "TSKR_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/8.png?format=png",
+         "TSKR_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/9.png?format=png",
+         "TSMA_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/10.png?format=png",
+         "TSMA_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/11.png?format=png",
+         "TSMA_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/12.png?format=png",
+         "TSBJ_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/13.png?format=png",
+         "TSBJ_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/14.png?format=png",
+         "TSBJ_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/15.png?format=png",
+         "TSHD_V": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/16.png?format=png",
+         "TSHD_D": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/17.png?format=png",
+         "TSHD_R": "https://superstarsei.sirv.com/2023/Profiles/Limited/tsmm/18.png?format=png",
+         
 
 
 
@@ -202,7 +243,25 @@
      "GFMG_EN_TEXT": "``Limited`` **GFRIEND EUNHA** MAGO Profile Picture",
      "GFMG_YJ_TEXT": "``Limited`` **GFRIEND YUJU** MAGO Profile Picture",
      "GFMG_SB_TEXT": "``Limited`` **GFRIEND SINB** MAGO Profile Picture",
-     "GFMG_UM_TEXT": "``Limited`` **GFRIEND UMJI** MAGO Profile Picture"
+     "GFMG_UM_TEXT": "``Limited`` **GFRIEND UMJI** MAGO Profile Picture",
+         "TSSO_V_TEXT": "``Limited`` **Taylor Swift Vocal** Snow on The Beach Profile Picture",
+         "TSSO_D_TEXT": "``Limited`` **Taylor Swift Dance** Snow on The Beach Profile Picture",
+         "TSSO_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Snow on The Beach Profile Picture",
+         "TSMR_V_TEXT": "``Limited`` **Taylor Swift Vocal** Midnight Rain Profile Picture",
+         "TSMR_D_TEXT": "``Limited`` **Taylor Swift Dance** Midnight Rain Profile Picture",
+         "TSMR_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Midnight Rain Profile Picture",
+         "TSKR_V_TEXT": "``Limited`` **Taylor Swift Vocal** Karma Profile Picture",
+         "TSKR_D_TEXT": "``Limited`` **Taylor Swift Dance** Karma Profile Picture",
+         "TSKR_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Karma Profile Picture",
+         "TSMA_V_TEXT": "``Limited`` **Taylor Swift Vocal** Maroon Profile Picture",
+         "TSMA_D_TEXT": "``Limited`` **Taylor Swift Dance** Maroon Profile Picture",
+         "TSMA_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Maroon Profile Picture",
+         "TSBJ_V_TEXT": "``Limited`` **Taylor Swift Vocal** Bejeweled Profile Picture",
+         "TSBJ_D_TEXT": "``Limited`` **Taylor Swift Dance** Bejeweled Profile Picture",
+         "TSBJ_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Bejeweled Profile Picture",
+         "TSHD_V_TEXT": "``Limited`` **Taylor Swift Vocal** Hits Different Profile Picture",
+         "TSHD_D_TEXT": "``Limited`` **Taylor Swift Dance** Hits Different Profile Picture",
+         "TSHD_R_TEXT": "``Limited`` **Taylor Swift Rhythm** Hits Different Profile Picture"
          
 
 
