@@ -1,24 +1,12 @@
      {  
   "pfps": [
     {
-     "TSMR_V_DESC": "Midnight Rain",
-     "TSMR_D_DESC": "Midnight Rain",
-         "TSMR_R_DESC": "Midnight Rain",
-         "TSKR_V_DESC": "Karma",
-         "TSKR_D_DESC": "Karma",
-         "TSKR_R_DESC": "Karma",
-         "TSMA_V_DESC": "Maroon",
-         "TSMA_D_DESC": "Maroon",
-         "TSMA_R_DESC": "Maroon",
-         "TSBJ_V_DESC": "Bejeweled",
-         "TSBJ_D_DESC": "Bejeweled",
-         "TSBJ_R_DESC": "Bejeweled",
-         "TSHD_V_DESC": "Hits Different",
-         "TSHD_D_DESC": "Hits Different",
-         "TSHD_R_DESC": "Hits Different",
-         "TSSO_V_DESC": "Snow on The Beach",
-         "TSSO_D_DESC": "Snow on The Beach",
-         "TSSO_R_DESC": "Snow on The Beach",
+         "TSMR_DESC": "Midnight Rain",
+         "TSKR_DESC": "Karma",
+         "TSMA_DESC": "Maroon",
+         "TSBJ_DESC": "Bejeweled",
+         "TSHD_DESC": "Hits Different",
+         "TSSO_DESC": "Snow on The Beach",
          
          
          
